@@ -1,1 +1,2 @@
-# py-data-snippets
+# pydatasnippets
+Python data analysis snippets (NumPy, pandas, matplotlib, SciPy)
