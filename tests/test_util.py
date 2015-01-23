@@ -21,10 +21,3 @@ class TestUtil():
         assert_equal(isinstance(7, (int)), True)
         assert_equal(isinstance(7.5, (int, float)), True)
         assert_equal(isinstance('foo', (int, float, str)), True)
-
-def main():
-    test = TestUtil()
-    test.test_isinstance()
-
-if __name__ == "__main__":
-    main()
