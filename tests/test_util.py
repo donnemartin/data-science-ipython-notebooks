@@ -1,5 +1,6 @@
 from nose.tools import assert_equal
 from nose.tools import raises
+from pydatasnippets.util import Util
 
 
 class TestUtil():
@@ -35,5 +36,6 @@ class TestUtil():
     def test_attributes_fail(self):
         return getattr('foo', 'bar')
 
-
-
+    def test_is_iterable(self):
+        assert_equal(Util.is_iterable('foo'), True)
+        assert_equal(Util.is_iterable(7), False)
