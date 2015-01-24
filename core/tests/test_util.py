@@ -34,6 +34,7 @@ class TestUtil():
 
     @raises(Exception)
     def test_attributes_fail(self):
+        # Throws a AttributeError exception, str has no attribute 'bar'
         return getattr('foo', 'bar')
 
     def test_is_iterable(self):
@@ -41,6 +42,7 @@ class TestUtil():
         assert_equal(Util.is_iterable(7), False)
 
     def test_convert_to_list(obj):
+        # Check if we converted the object to a list
         assert_equal(isinstance(Util.convert_to_list('foo'), list), True)
         assert_equal(isinstance(Util.convert_to_list(7), list), False)
 
