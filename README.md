@@ -5,8 +5,8 @@ Python data analysis IPython Notebooks (core Python, NumPy, pandas, matplotlib, 
 
 Data Analysis IPython Notebooks (core Python, NumPy, pandas, matplotlib, SciPy).
 
-[basics](http://nbviewer.ipython.org/github/donnemartin/pydatasnippets/blob/master/core/basics.ipynb)
-[dattime](http://nbviewer.ipython.org/github/donnemartin/pydatasnippets/blob/master/core/datetime.ipynb)
+* [basics](http://nbviewer.ipython.org/github/donnemartin/pydatanotebooks/blob/master/core/basics.ipynb)
+* [dattime](http://nbviewer.ipython.org/github/donnemartin/pydatanotebooks/blob/master/core/datetime.ipynb)
 
 ## numpy
 
