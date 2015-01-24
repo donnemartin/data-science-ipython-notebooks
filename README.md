@@ -1,25 +1,27 @@
-# pydatasnippets
-Python data analysis snippets and nose unit tests (core Python, NumPy, pandas, matplotlib, SciPy).
+# pydatanotebooks
+Python data analysis IPython Notebooks (core Python, NumPy, pandas, matplotlib, SciPy).
 
 ## core
 
-Snippets and nose unit tests for core Python functionality geared towards data analysis.
+IPython Notebooks demonstrating core Python functionality geared towards data analysis.
+
+[dattime](http://nbviewer.ipython.org/github/donnemartin/pydatasnippets/blob/master/core/datetime.ipynb)
 
 ## numpy
 
-Snippets and nose unit tests for NumPy functionality geared towards data analysis.  Coming soon.
+IPython Notebooks demonstrating NumPy functionality geared towards data analysis.  Coming soon.
 
 ## pandas
 
-Snippets and nose unit tests for pandas functionality geared towards data analysis.  Coming soon.
+IPython Notebooks demonstrating pandas functionality geared towards data analysis.  Coming soon.
 
 ## matplotlib
 
-Snippets and nose unit tests for matplotlib functionality geared towards data analysis.  Coming soon.
+IPython Notebooks demonstrating matplotlib functionality geared towards data analysis.  Coming soon.
 
 ## scipy
 
-Snippets and nose unit tests for SciPy functionality geared towards data analysis.  Coming soon.
+IPython Notebooks demonstrating SciPy functionality geared towards data analysis.  Coming soon.
 
 ##License
 
