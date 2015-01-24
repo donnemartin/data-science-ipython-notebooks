@@ -1,6 +1,6 @@
 from nose.tools import assert_equal
 from nose.tools import raises
-from pydatasnippets.util import Util
+from pydatasnippets.core.util import Util
 
 
 class TestUtil():
@@ -43,3 +43,13 @@ class TestUtil():
     def test_convert_to_list(obj):
         assert_equal(isinstance(Util.convert_to_list('foo'), list), True)
         assert_equal(isinstance(Util.convert_to_list(7), list), False)
+
+    def test_references(self):
+        a = [1, 2, 3]
+        b = a
+        c = list(a)  # list always creates a new list
+        assert_equal(a == b, True)
+        assert_equal(a is b, True)
+        assert_equal(a == c, True)
+        assert_equal(a is c, False)
+
