@@ -23,6 +23,7 @@ class TestUtil():
         assert_equal(isinstance(7, (int)), True)
         assert_equal(isinstance(7.5, (int, float)), True)
         assert_equal(isinstance('foo', (int, float, str)), True)
+        assert_equal(isinstance('foo', (int)), False)
 
     def test_attributes(self):
         """Functions getattr, hasattr, setattr can be used to write generic,
