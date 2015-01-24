@@ -41,7 +41,7 @@ class TestUtil():
         assert_equal(Util.is_iterable('foo'), True)
         assert_equal(Util.is_iterable(7), False)
 
-    def test_convert_to_list(obj):
+    def test_convert_to_list(self):
         # Check if we converted the object to a list
         assert_equal(isinstance(Util.convert_to_list('foo'), list), True)
         assert_equal(isinstance(Util.convert_to_list(7), list), False)
