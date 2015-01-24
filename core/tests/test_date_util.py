@@ -32,3 +32,9 @@ class TestDateUtil():
         assert_equal(dt.minute, self.minute)
         assert_equal(dt.date(), date(self.year, self.month, self.day))
         assert_equal(dt.time(), time(self.hour, self.minute, self.second))
+
+    def test_strftime(self):
+        """Format the datetime string"""
+        dt = datetime(self.year, self.month, self.day,
+                      self.hour, self.minute, self.second)
+        assert_equal(dt.strftime('%m/%d/%Y %H:%M'), '01/20/2015 07:28')
