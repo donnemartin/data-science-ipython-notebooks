@@ -42,3 +42,10 @@ class TestDateUtil():
         """Convert/parse string into datetime objects"""
         d = datetime(self.year, self.month, self.day)
         assert_equal(datetime.strptime('20150120', '%Y%m%d'), d)
+
+    def test_datetime_replace(self):
+        """When aggregating or grouping time series data, it is sometimes
+        useful to replace fields of a series of datetimes such as zeroing
+        out the minute and second fields."""
+        dt = datetime(self.year, self.month, self.day, self.hour, 0, 0)
+        assert_equal(self.dt.replace(minute=0, second=0), dt)
