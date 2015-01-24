@@ -38,3 +38,8 @@ class TestDateUtil():
         dt = datetime(self.year, self.month, self.day,
                       self.hour, self.minute, self.second)
         assert_equal(dt.strftime('%m/%d/%Y %H:%M'), '01/20/2015 07:28')
+
+    def test_strptime(self):
+        """Convert/parse string into datetime objects"""
+        dt = datetime(self.year, self.month, self.day)
+        assert_equal(datetime.strptime('20150120', '%Y%m%d'), dt)
