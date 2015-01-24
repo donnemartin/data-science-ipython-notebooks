@@ -1,7 +1,7 @@
 class Util:
 
     @classmethod
-    def is_iterable(self, obj):
+    def is_iterable(cls, obj):
         """Determines if obj is iterable.
 
         Useful when writing functions that can accept multiple types of
@@ -15,10 +15,10 @@ class Util:
             return False
 
     @classmethod
-    def convert_to_list(self, obj):
+    def convert_to_list(cls, obj):
         """Converts obj to a list if it is not a list and it is iterable, else
         returns the original obj.
         """
-        if not isinstance(obj, list) and self.is_iterable(obj):
+        if not isinstance(obj, list) and cls.is_iterable(obj):
             obj = list(obj)
         return obj
