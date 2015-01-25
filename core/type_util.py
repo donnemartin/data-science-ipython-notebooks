@@ -1,4 +1,4 @@
-class Util:
+class TypeUtil:
 
     @classmethod
     def is_iterable(cls, obj):
