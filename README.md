@@ -7,6 +7,7 @@ Data Analysis IPython Notebooks (core Python, NumPy, pandas, matplotlib, SciPy).
 
 * [basics](http://nbviewer.ipython.org/github/donnemartin/pydatanotebooks/blob/master/core/basics.ipynb)
 * [datetime](http://nbviewer.ipython.org/github/donnemartin/pydatanotebooks/blob/master/core/datetime.ipynb)
+* [data structures](http://nbviewer.ipython.org/github/donnemartin/pydatanotebooks/blob/master/core/structs.ipynb)
 
 ## numpy
 
