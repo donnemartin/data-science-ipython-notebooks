@@ -1,13 +1,14 @@
 # pydatanotebooks
-Python data analysis IPython Notebooks (core Python, NumPy, pandas, matplotlib, SciPy).
+Python data analysis IPython Notebooks (core Python, NumPy, pandas, matplotlib, SciPy).  Geared towards data anaysis.
 
 ## core
 
-Data Analysis IPython Notebooks (core Python, NumPy, pandas, matplotlib, SciPy).
+IPython Notebooks demonstrating core Python functionality geared towards data analysis.
 
 * [basics](http://nbviewer.ipython.org/github/donnemartin/pydatanotebooks/blob/master/core/basics.ipynb)
 * [datetime](http://nbviewer.ipython.org/github/donnemartin/pydatanotebooks/blob/master/core/datetime.ipynb)
 * [data structures](http://nbviewer.ipython.org/github/donnemartin/pydatanotebooks/blob/master/core/structs.ipynb)
+* [data structures utilities](http://nbviewer.ipython.org/github/donnemartin/pydatanotebooks/blob/master/core/structs_utils.ipynb)
 
 ## numpy
 
