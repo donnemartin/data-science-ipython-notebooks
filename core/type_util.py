@@ -16,8 +16,8 @@ class TypeUtil:
 
     @classmethod
     def convert_to_list(cls, obj):
-        """Converts obj to a list if it is not a list and it is iterable, else
-        returns the original obj.
+        """Converts obj to a list if it is not a list and it is iterable, 
+        else returns the original obj.
         """
         if not isinstance(obj, list) and cls.is_iterable(obj):
             obj = list(obj)
