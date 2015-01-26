@@ -7,6 +7,7 @@ IPython Notebooks geared towards Python data analysis (core Python, NumPy, panda
 
 * [data structures](http://nbviewer.ipython.org/github/donnemartin/pydatanotebooks/blob/master/core/structs.ipynb)
 * [data structure utilities](http://nbviewer.ipython.org/github/donnemartin/pydatanotebooks/blob/master/core/structs_utils.ipynb)
+* [functions](http://nbviewer.ipython.org/github/donnemartin/pydatanotebooks/blob/master/core/functions.ipynb)
 * [datetime](http://nbviewer.ipython.org/github/donnemartin/pydatanotebooks/blob/master/core/datetime.ipynb)
 * [unit tests](http://nbviewer.ipython.org/github/donnemartin/pydatanotebooks/blob/master/core/unit_tests.ipynb)
 
