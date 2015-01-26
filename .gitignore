@@ -55,3 +55,6 @@ target/
 
 # IPython notebook
 .ipynb_checkpoints
+
+# Repo scratch directory
+scratch/
