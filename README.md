@@ -1,9 +1,9 @@
 # pydatanotebooks
-Python data analysis IPython Notebooks (core Python, NumPy, pandas, matplotlib, SciPy).  Geared towards data anaysis.
+Python data analysis IPython Notebooks (core Python, NumPy, pandas, matplotlib, SciPy, scikit-learn).
 
 ## core
 
-IPython Notebooks demonstrating core Python functionality geared towards data analysis.
+[Active Development] IPython Notebooks demonstrating core Python functionality geared towards data analysis.
 
 * [data structures](http://nbviewer.ipython.org/github/donnemartin/pydatanotebooks/blob/master/core/structs.ipynb)
 * [data structure utilities](http://nbviewer.ipython.org/github/donnemartin/pydatanotebooks/blob/master/core/structs_utils.ipynb)
@@ -12,19 +12,23 @@ IPython Notebooks demonstrating core Python functionality geared towards data an
 
 ## numpy
 
-IPython Notebooks demonstrating NumPy functionality geared towards data analysis.  Coming soon.
+[Coming Soon] IPython Notebooks demonstrating NumPy functionality.
 
 ## pandas
 
-IPython Notebooks demonstrating pandas functionality geared towards data analysis.  Coming soon.
+[Coming Soon] IPython Notebooks demonstrating pandas functionality.
 
 ## matplotlib
 
-IPython Notebooks demonstrating matplotlib functionality geared towards data analysis.  Coming soon.
+[Coming Soon] IPython Notebooks demonstrating matplotlib functionality.
+
+## scikit-learn
+
+[Coming Soon] IPython Notebooks demonstrating scikit-learn functionality.
 
 ## scipy
 
-IPython Notebooks demonstrating SciPy functionality geared towards data analysis.  Coming soon.
+[Coming Soon] IPython Notebooks demonstrating SciPy functionality.
 
 ##License
 
