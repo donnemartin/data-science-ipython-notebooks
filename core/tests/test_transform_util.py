@@ -17,6 +17,10 @@ class TestTransformUtil():
     
     def test_remove_punctuation(self):
         assert_equal(TransformUtil.remove_punctuation('!#?'), '')
+        
+    def test_map_remove_punctuation(self):
+        output = map(TransformUtil.remove_punctuation, self.states)
+        assert_equal('!#?' not in output, True)
 
     def test_clean_strings(self):
         clean_ops = [str.strip, TransformUtil.remove_punctuation, str.title] 
