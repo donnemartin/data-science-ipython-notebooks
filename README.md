@@ -1,5 +1,5 @@
 # pydatanotebooks
-Python data analysis IPython Notebooks (core Python, NumPy, pandas, matplotlib, SciPy, scikit-learn).
+IPython Notebooks geared towards Python data analysis (core Python, NumPy, pandas, matplotlib, SciPy, scikit-learn).
 
 ## core
 
