@@ -1,5 +1,5 @@
 from nose.tools import assert_equal
-from pydatasnippets.core.type_util import TypeUtil
+from ..type_util import TypeUtil
 
 
 class TestUtil():
