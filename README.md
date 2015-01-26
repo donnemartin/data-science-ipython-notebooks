@@ -5,9 +5,8 @@ Python data analysis IPython Notebooks (core Python, NumPy, pandas, matplotlib, 
 
 IPython Notebooks demonstrating core Python functionality geared towards data analysis.
 
-* [basics](http://nbviewer.ipython.org/github/donnemartin/pydatanotebooks/blob/master/core/basics.ipynb)
 * [data structures](http://nbviewer.ipython.org/github/donnemartin/pydatanotebooks/blob/master/core/structs.ipynb)
-* [data structures utilities](http://nbviewer.ipython.org/github/donnemartin/pydatanotebooks/blob/master/core/structs_utils.ipynb)
+* [data structure utilities](http://nbviewer.ipython.org/github/donnemartin/pydatanotebooks/blob/master/core/structs_utils.ipynb)
 * [datetime](http://nbviewer.ipython.org/github/donnemartin/pydatanotebooks/blob/master/core/datetime.ipynb)
 * [unit tests](http://nbviewer.ipython.org/github/donnemartin/pydatanotebooks/blob/master/core/unit_tests.ipynb)
 
