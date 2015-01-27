@@ -19,6 +19,7 @@ class TestTransformUtil():
         assert_equal(TransformUtil.remove_punctuation('!#?'), '')
         
     def test_map_remove_punctuation(self):
+        # Map applies a function to a collection
         output = map(TransformUtil.remove_punctuation, self.states)
         assert_equal('!#?' not in output, True)
 
