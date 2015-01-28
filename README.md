@@ -11,13 +11,11 @@ IPython Notebooks geared towards Python data analysis (core Python, NumPy, panda
 * [datetime](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/core/datetime.ipynb)
 * [unit tests](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/core/unit_tests.ipynb)
 
-## numpy
-
-[Coming Soon] IPython Notebooks demonstrating NumPy functionality.
-
 ## pandas
 
-[Coming Soon] IPython Notebooks demonstrating pandas functionality.
+[Active Development] IPython Notebooks demonstrating pandas functionality.
+
+* [pandas](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/pandas/pandas.ipynb)
 
 ## matplotlib
 
@@ -30,6 +28,10 @@ IPython Notebooks geared towards Python data analysis (core Python, NumPy, panda
 ## scipy
 
 [Coming Soon] IPython Notebooks demonstrating SciPy functionality.
+
+## numpy
+
+[Coming Soon] IPython Notebooks demonstrating NumPy functionality.
 
 ##License
 
