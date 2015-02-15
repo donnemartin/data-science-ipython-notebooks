@@ -16,9 +16,7 @@ IPython Notebooks demonstrating core Python functionality geared towards data an
 IPython Notebooks demonstrating pandas functionality.
 
 * [pandas](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/pandas/pandas.ipynb)
-
 * [pandas io](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/pandas/pandas_io.ipynb)
-
 * [pandas cleaning](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/pandas/pandas_clean.ipynb)
 
 ## matplotlib
