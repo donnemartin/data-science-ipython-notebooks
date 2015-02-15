@@ -1,9 +1,9 @@
 # ipython-data-notebooks
-IPython Notebooks geared towards Python data analysis (core Python, NumPy, pandas, matplotlib, SciPy, scikit-learn).
+IPython Notebooks geared towards Python data analysis (core Python, NumPy, pandas, matplotlib, SciPy, scikit-learn, command line).
 
 ## core
 
-[Active Development] IPython Notebooks demonstrating core Python functionality geared towards data analysis.
+IPython Notebooks demonstrating core Python functionality geared towards data analysis.
 
 * [data structures](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/core/structs.ipynb)
 * [data structure utilities](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/core/structs_utils.ipynb)
@@ -13,9 +13,13 @@ IPython Notebooks geared towards Python data analysis (core Python, NumPy, panda
 
 ## pandas
 
-[Active Development] IPython Notebooks demonstrating pandas functionality.
+IPython Notebooks demonstrating pandas functionality.
 
 * [pandas](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/pandas/pandas.ipynb)
+
+* [pandas io](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/pandas/pandas_io.ipynb)
+
+* [pandas cleaning](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/pandas/pandas_clean.ipynb)
 
 ## matplotlib
 
@@ -32,6 +36,10 @@ IPython Notebooks geared towards Python data analysis (core Python, NumPy, panda
 ## numpy
 
 [Coming Soon] IPython Notebooks demonstrating NumPy functionality.
+
+## commands
+
+[Coming Soon] IPython Notebooks demonstrating various command lines for AWS, Unix, etc.
 
 ## References
 
