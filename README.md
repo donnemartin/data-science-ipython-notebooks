@@ -43,9 +43,10 @@ IPython Notebooks demonstrating various command lines for AWS, Unix, etc.
 
 ## References
 
-* [Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython](http://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1449319793/ref=sr_1_1?ie=UTF8&qid=1423228985&sr=8-1&keywords=python+for+data+analysis)
-* [Building Machine Learning Systems with Python](http://www.amazon.com/Building-Machine-Learning-Systems-Python/dp/1782161406/ref=sr_1_2?ie=UTF8&qid=1423229174&sr=8-2&keywords=machine+learning+python)
-* [Think Bayes](http://www.amazon.com/Think-Bayes-Allen-B-Downey/dp/1449370780/ref=sr_1_1?ie=UTF8&qid=1423229167&sr=8-1&keywords=think+bayes)
+* [Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython](http://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1449319793)
+* [Building Machine Learning Systems with Python](http://www.amazon.com/Building-Machine-Learning-Systems-Python/dp/1782161406)
+* [Think Bayes](http://www.amazon.com/Think-Bayes-Allen-B-Downey/dp/1449370780)
+* [Think Stats](http://www.amazon.com/Think-Stats-Allen-B-Downey/dp/1449307116)
 
 ##License
 
