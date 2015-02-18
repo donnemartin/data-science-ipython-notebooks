@@ -37,7 +37,9 @@ IPython Notebooks demonstrating pandas functionality.
 
 ## commands
 
-[Coming Soon] IPython Notebooks demonstrating various command lines for AWS, Unix, etc.
+IPython Notebooks demonstrating various command lines for AWS, Unix, etc.
+
+* [aws commands](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/commands/aws.ipynb)
 
 ## References
 
