@@ -1,5 +1,5 @@
 # ipython-data-notebooks
-IPython Notebooks geared towards Python data analysis (core Python, NumPy, pandas, matplotlib, SciPy, scikit-learn, command line).
+IPython Notebooks geared towards Python data analysis (core Python, NumPy, pandas, matplotlib, SciPy, scikit-learn, aws, spark, command line).
 
 ## python-core
 
@@ -33,11 +33,11 @@ IPython Notebooks demonstrating spark and HDFS functionality.
 
 ## commands
 
-IPython Notebooks demonstrating various command lines for AWS, Unix, etc.
+IPython Notebooks demonstrating various command lines for Linux, Git, etc.
 
-* [linux commands](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/commands/linux.ipynb)
-* [git commands](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/commands/git.ipynb)
-* [jekyll commands](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/commands/jekyll.ipynb)
+* [linux](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/commands/linux.ipynb)
+* [git](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/commands/git.ipynb)
+* [jekyll](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/commands/jekyll.ipynb)
 
 ## matplotlib
 
@@ -62,7 +62,7 @@ IPython Notebooks demonstrating various command lines for AWS, Unix, etc.
 * [Think Bayes](http://www.amazon.com/Think-Bayes-Allen-B-Downey/dp/1449370780)
 * [Think Stats](http://www.amazon.com/Think-Stats-Allen-B-Downey/dp/1449307116)
 
-##License
+## License
 
     Copyright 2014 Donne Martin
 
