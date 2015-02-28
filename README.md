@@ -19,6 +19,20 @@ IPython Notebooks demonstrating pandas functionality.
 * [pandas io](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/pandas/pandas_io.ipynb)
 * [pandas cleaning](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/pandas/pandas_clean.ipynb)
 
+## spark
+
+IPython Notebooks demonstrating spark and HDFS functionality.
+
+* [hdfs](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/spark/hdfs.ipynb)
+
+## commands
+
+IPython Notebooks demonstrating various command lines for AWS, Unix, etc.
+
+* [aws commands](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/commands/aws.ipynb)
+* [linux commands](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/commands/linux.ipynb)
+* [jekyll commands](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/commands/jekyll.ipynb)
+
 ## matplotlib
 
 [Coming Soon] IPython Notebooks demonstrating matplotlib functionality.
@@ -34,14 +48,6 @@ IPython Notebooks demonstrating pandas functionality.
 ## numpy
 
 [Coming Soon] IPython Notebooks demonstrating NumPy functionality.
-
-## commands
-
-IPython Notebooks demonstrating various command lines for AWS, Unix, etc.
-
-* [aws commands](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/commands/aws.ipynb)
-* [linux commands](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/commands/linux.ipynb)
-* [jekyll commands](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/commands/jekyll.ipynb)
 
 ## References
 
