@@ -1,15 +1,15 @@
 # ipython-data-notebooks
 IPython Notebooks geared towards Python data analysis (core Python, NumPy, pandas, matplotlib, SciPy, scikit-learn, command line).
 
-## core
+## python-core
 
 IPython Notebooks demonstrating core Python functionality geared towards data analysis.
 
-* [data structures](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/core/structs.ipynb)
-* [data structure utilities](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/core/structs_utils.ipynb)
-* [functions](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/core/functions.ipynb)
-* [datetime](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/core/datetime.ipynb)
-* [unit tests](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/core/unit_tests.ipynb)
+* [data structures](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/python-core/structs.ipynb)
+* [data structure utilities](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/python-core/structs_utils.ipynb)
+* [functions](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/python-core/functions.ipynb)
+* [datetime](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/python-core/datetime.ipynb)
+* [unit tests](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/python-core/unit_tests.ipynb)
 
 ## pandas
 
