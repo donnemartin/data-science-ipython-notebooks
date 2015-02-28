@@ -40,6 +40,7 @@ IPython Notebooks demonstrating pandas functionality.
 IPython Notebooks demonstrating various command lines for AWS, Unix, etc.
 
 * [aws commands](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/commands/aws.ipynb)
+* [linux commands](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/commands/linux.ipynb)
 * [jekyll commands](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/commands/jekyll.ipynb)
 
 ## References
