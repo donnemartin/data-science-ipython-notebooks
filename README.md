@@ -19,6 +19,12 @@ IPython Notebooks demonstrating pandas functionality.
 * [pandas io](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/pandas/pandas_io.ipynb)
 * [pandas cleaning](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/pandas/pandas_clean.ipynb)
 
+## aws
+
+IPython Notebooks demonstrating Amazon Web Services functionality.
+
+* [aws](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/aws/aws.ipynb)
+
 ## spark
 
 IPython Notebooks demonstrating spark and HDFS functionality.
@@ -29,7 +35,6 @@ IPython Notebooks demonstrating spark and HDFS functionality.
 
 IPython Notebooks demonstrating various command lines for AWS, Unix, etc.
 
-* [aws commands](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/commands/aws.ipynb)
 * [linux commands](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/commands/linux.ipynb)
 * [jekyll commands](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/commands/jekyll.ipynb)
 
