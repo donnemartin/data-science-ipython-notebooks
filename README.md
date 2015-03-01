@@ -38,8 +38,11 @@ IPython Notebooks demonstrating spark and HDFS functionality.
 IPython Notebooks demonstrating various command lines for Linux, Git, etc.
 
 * [linux](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/commands/linux.ipynb)
-* [git](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/commands/git.ipynb)
-* [jekyll](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/commands/jekyll.ipynb)
+* [anaconda](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/commands/misc.ipynb#Anaconda)
+* [ipython notebook](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/commands/misc.ipynb#IPython_Notebook)
+* [git](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/commands/misc.ipynb#Git)
+* [ruby](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/commands/misc.ipynb#Ruby)
+* [jekyll](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/commands/misc.ipynb#Jekyll)
 
 ## matplotlib
 
