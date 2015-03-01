@@ -1,4 +1,4 @@
-![alt text](http://i1.wp.com/donnemartin.com/wp-content/uploads/2014/09/notesbag_cover.jpg)
+![alt text](http://i2.wp.com/donnemartin.com/wp-content/uploads/2015/02/ipython_notebook_cover2-e1425213196820.png)
 
 # ipython-data-notebooks
 IPython Notebooks geared towards Python data analysis (core Python, NumPy, pandas, matplotlib, SciPy, scikit-learn, aws, spark, command line).
