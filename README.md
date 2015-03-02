@@ -1,7 +1,7 @@
 ![alt text](http://i2.wp.com/donnemartin.com/wp-content/uploads/2015/02/ipython_notebook_cover2-e1425213196820.png)
 
 # ipython-data-notebooks
-IPython Notebooks geared towards Python data analysis (core Python, NumPy, pandas, matplotlib, SciPy, scikit-learn, aws, spark, command line).
+IPython Notebooks geared towards Python data analysis (core Python, NumPy, pandas, matplotlib, SciPy, scikit-learn, AWS, Spark, command line).
 
 ## python-core
 
@@ -26,6 +26,11 @@ IPython Notebooks demonstrating pandas functionality.
 IPython Notebooks demonstrating Amazon Web Services functionality.
 
 * [aws](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/aws/aws.ipynb)
+* [s3cmd](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/aws/aws.ipynb#s3cmd)
+* [s3-parallel-put](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/aws/aws.ipynb#s3-parallel-put)
+* [S3DistCp](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/aws/aws.ipynb#s3distcp)
+* [mrjob](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/aws/aws.ipynb#mrjob)
+* [Redshift](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/aws/aws.ipynb#redshift)
 
 ## spark
 
