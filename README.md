@@ -37,6 +37,7 @@ IPython Notebooks demonstrating Amazon Web Services functionality.
 IPython Notebooks demonstrating spark and HDFS functionality.
 
 * [hdfs](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/spark/hdfs.ipynb)
+* [spark](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/spark/spark.ipynb)
 
 ## commands
 
