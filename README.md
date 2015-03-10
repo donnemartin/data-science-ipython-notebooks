@@ -25,12 +25,14 @@ IPython Notebooks demonstrating pandas functionality.
 
 IPython Notebooks demonstrating Amazon Web Services functionality.
 
-* [aws](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/aws/aws.ipynb)
+* [aws commands index](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/aws/aws.ipynb)
 * [s3cmd](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/aws/aws.ipynb#s3cmd)
 * [s3-parallel-put](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/aws/aws.ipynb#s3-parallel-put)
-* [S3DistCp](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/aws/aws.ipynb#s3distcp)
+* [s3distcp](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/aws/aws.ipynb#s3distcp)
 * [mrjob](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/aws/aws.ipynb#mrjob)
-* [Redshift](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/aws/aws.ipynb#redshift)
+* [redshift](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/aws/aws.ipynb#redshift)
+* [kinesis](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/aws/aws.ipynb#kinesis)
+* [lambda](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/aws/aws.ipynb#lambda)
 
 ## spark
 
