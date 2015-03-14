@@ -52,6 +52,12 @@ IPython Notebooks demonstrating various command lines for Linux, Git, etc.
 * [ruby](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/commands/misc.ipynb#ruby)
 * [jekyll](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/commands/misc.ipynb#jekyll)
 
+## kaggle
+
+IPython Notebooks used in [kaggle](https://www.kaggle.com/) competitions.
+
+* [titanic](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/kaggle/titanic.ipynb)
+
 ## matplotlib
 
 [Coming Soon] IPython Notebooks demonstrating matplotlib functionality.
