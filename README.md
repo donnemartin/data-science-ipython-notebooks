@@ -1,7 +1,7 @@
 ![alt text](http://i2.wp.com/donnemartin.com/wp-content/uploads/2015/02/ipython_notebook_cover2-e1425213196820.png)
 
 # ipython-data-notebooks
-IPython Notebooks geared towards Python data analysis (core Python, NumPy, pandas, matplotlib, SciPy, scikit-learn, AWS, Spark, command line).
+Continually updated IPython Data Science Notebooks geared towards processing big data (AWS, Spark, Hadoop, Linux command line, Python, NumPy, pandas, matplotlib, SciPy, scikit-learn, Kaggle).
 
 ## python-core
 
