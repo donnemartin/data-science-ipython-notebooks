@@ -3,23 +3,11 @@
 # ipython-data-notebooks
 Continually updated IPython Data Science Notebooks geared towards processing big data (AWS, Spark, Hadoop, Linux command line, Python, NumPy, pandas, matplotlib, SciPy, scikit-learn, Kaggle).
 
-## python-core
+## kaggle
 
-IPython Notebooks demonstrating core Python functionality geared towards data analysis.
+IPython Notebooks used in [kaggle](https://www.kaggle.com/) competitions.
 
-* [data structures](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/python-core/structs.ipynb)
-* [data structure utilities](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/python-core/structs_utils.ipynb)
-* [functions](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/python-core/functions.ipynb)
-* [datetime](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/python-core/datetime.ipynb)
-* [unit tests](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/python-core/unit_tests.ipynb)
-
-## pandas
-
-IPython Notebooks demonstrating pandas functionality.
-
-* [pandas](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/pandas/pandas.ipynb)
-* [pandas io](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/pandas/pandas_io.ipynb)
-* [pandas cleaning](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/pandas/pandas_clean.ipynb)
+* [titanic](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/kaggle/titanic.ipynb)
 
 ## aws
 
@@ -38,8 +26,26 @@ IPython Notebooks demonstrating Amazon Web Services functionality.
 
 IPython Notebooks demonstrating spark and HDFS functionality.
 
-* [hdfs](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/spark/hdfs.ipynb)
 * [spark](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/spark/spark.ipynb)
+* [hdfs](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/spark/hdfs.ipynb)
+
+## python-core
+
+IPython Notebooks demonstrating core Python functionality geared towards data analysis.
+
+* [data structures](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/python-core/structs.ipynb)
+* [data structure utilities](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/python-core/structs_utils.ipynb)
+* [functions](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/python-core/functions.ipynb)
+* [datetime](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/python-core/datetime.ipynb)
+* [unit tests](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/python-core/unit_tests.ipynb)
+
+## pandas
+
+IPython Notebooks demonstrating pandas functionality.
+
+* [pandas](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/pandas/pandas.ipynb)
+* [pandas io](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/pandas/pandas_io.ipynb)
+* [pandas cleaning](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/pandas/pandas_clean.ipynb)
 
 ## commands
 
@@ -51,12 +57,6 @@ IPython Notebooks demonstrating various command lines for Linux, Git, etc.
 * [git](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/commands/misc.ipynb#git)
 * [ruby](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/commands/misc.ipynb#ruby)
 * [jekyll](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/commands/misc.ipynb#jekyll)
-
-## kaggle
-
-IPython Notebooks used in [kaggle](https://www.kaggle.com/) competitions.
-
-* [titanic](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/kaggle/titanic.ipynb)
 
 ## matplotlib
 
