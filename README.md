@@ -7,27 +7,23 @@ Continually updated IPython Data Science Notebooks geared towards processing big
 
 IPython Notebooks used in [kaggle](https://www.kaggle.com/) competitions.
 
-* [titanic](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/kaggle/titanic.ipynb): Predicts survival on the Titanic.  Demonstrates data cleaning, exploratory data analysis, and machine learning.
+| Notebook | Description |
+|-------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
+| [titanic](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/kaggle/titanic.ipynb) | Predicts survival on the Titanic.  Demonstrates data cleaning, exploratory data analysis, and machine learning. |
 
 ## aws
 
 IPython Notebooks demonstrating Amazon Web Services functionality.
 
-* [aws commands index](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/aws/aws.ipynb)
-
-* [s3cmd](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/aws/aws.ipynb#s3cmd): Interacts with S3 through the command line.
-
-* [s3-parallel-put](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/aws/aws.ipynb#s3-parallel-put): Uploads multiple files to S3 in parallel.
-
-* [s3distcp](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/aws/aws.ipynb#s3distcp): Combines smaller files and aggregates them together by taking in a pattern and target file.  S3DistCp can also be used to transfer large volumes of data from S3 to your Hadoop cluster.
-
-* [mrjob](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/aws/aws.ipynb#mrjob): Supports MapReduce jobs in Python 2.5+ and runs them locally or on Hadoop clusters.
-
-* [redshift](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/aws/aws.ipynb#redshift): Acts as a fast data warehouse built on top of technology from massive parallel processing (MPP).
-
-* [kinesis](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/aws/aws.ipynb#kinesis): Streams data in real time with the ability to process thousands of data streams per second.
-
-* [lambda](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/aws/aws.ipynb#lambda): Runs code in response to events, automatically managing compute resources.
+| Notebook | Description |
+|------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [s3cmd](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/aws/aws.ipynb#s3cmd) | Interacts with S3 through the command line. |
+| [s3-parallel-put](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/aws/aws.ipynb#s3-parallel-put) | Uploads multiple files to S3 in parallel. |
+| [s3distcp](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/aws/aws.ipynb#s3distcp) | Combines smaller files and aggregates them together by taking in a pattern and target file.,S3DistCp can also be used to transfer large volumes of data from S3 to your Hadoop cluster. |
+| [mrjob](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/aws/aws.ipynb#mrjob) | Supports MapReduce jobs in Python 2.5+ and runs them locally or on Hadoop clusters. |
+| [redshift](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/aws/aws.ipynb#redshift) | Acts as a fast data warehouse built on top of technology from massive parallel processing (MPP). |
+| [kinesis](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/aws/aws.ipynb#kinesis) | Streams data in real time with the ability to process thousands of data streams per second. |
+| [lambda](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/aws/aws.ipynb#lambda) | Runs code in response to events, automatically managing compute resources. |
 
 ## spark
 
