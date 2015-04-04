@@ -5,9 +5,9 @@
 # ipython-data-notebooks
 Continually updated IPython Data Science Notebooks geared towards processing big data (AWS, Spark, Hadoop MapReduce, HDFS, Linux command line, Python, NumPy, pandas, matplotlib, SciPy, scikit-learn, Kaggle).
 
+<br/>
 ## kaggle
 
-<br/>
 <p align="center">
   <img src="https://raw.githubusercontent.com/donnemartin/ipython-data-notebooks/master/images/kaggle.png">
 </p>
@@ -18,9 +18,9 @@ IPython Notebooks used in [kaggle](https://www.kaggle.com/) competitions.
 |-------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
 | [titanic](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/kaggle/titanic.ipynb) | Predicts survival on the Titanic.  Demonstrates data cleaning, exploratory data analysis, and machine learning. |
 
+<br/>
 ## spark
 
-<br/>
 <p align="center">
   <img src="https://raw.githubusercontent.com/donnemartin/ipython-data-notebooks/master/images/spark.png">
 </p>
@@ -32,9 +32,9 @@ IPython Notebooks demonstrating spark and HDFS functionality.
 | [spark](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/spark/spark.ipynb) | In-memory cluster computing framework, up to 100 times faster for certain applications and is well suited for machine learning algorithms. |
 | [hdfs](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/spark/hdfs.ipynb) | Reliably stores very large files across machines in a large cluster. |
 
+<br/>
 ## aws
 
-<br/>
 <p align="center">
   <img src="https://raw.githubusercontent.com/donnemartin/ipython-data-notebooks/master/images/aws.png">
 </p>
@@ -51,9 +51,9 @@ IPython Notebooks demonstrating Amazon Web Services functionality.
 | [kinesis](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/aws/aws.ipynb#kinesis) | Streams data in real time with the ability to process thousands of data streams per second. |
 | [lambda](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/aws/aws.ipynb#lambda) | Runs code in response to events, automatically managing compute resources. |
 
+<br/>
 ## python-core
 
-<br/>
 <p align="center">
   <img src="https://raw.githubusercontent.com/donnemartin/ipython-data-notebooks/master/images/python.png">
 </p>
@@ -68,9 +68,9 @@ IPython Notebooks demonstrating core Python functionality geared towards data an
 | [datetime](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/python-core/datetime.ipynb) | Datetime, strftime, strptime, timedelta. |
 | [unit tests](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/python-core/unit_tests.ipynb) | Nose unit tests. |
 
+<br/>
 ## pandas
 
-<br/>
 <p align="center">
   <img src="https://raw.githubusercontent.com/donnemartin/ipython-data-notebooks/master/images/pandas.png">
 </p>
@@ -83,9 +83,9 @@ IPython Notebooks demonstrating pandas functionality.
 | [pandas io](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/pandas/pandas_io.ipynb) | Input and output operations. |
 | [pandas cleaning](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/pandas/pandas_clean.ipynb) | Data wrangling operations. |
 
+<br/>
 ## commands
 
-<br/>
 <p align="center">
   <img src="https://raw.githubusercontent.com/donnemartin/ipython-data-notebooks/master/images/commands.png">
 </p>
@@ -101,42 +101,43 @@ IPython Notebooks demonstrating various command lines for Linux, Git, etc.
 | [ruby](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/commands/misc.ipynb#ruby) | Used to interact with the AWS command line and for Jekyll, a blog framework that can be hosted on GitHub Pages. |
 | [jekyll](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/commands/misc.ipynb#jekyll) | Simple, blog-aware, static site generator for personal, project, or organization sites.  Renders Markdown or Textile and Liquid templates, and produces a complete, static website ready to be served by Apache HTTP Server, Nginx or another web server. |
 
+<br/>
 ## matplotlib
 
-<br/>
 <p align="center">
   <img src="https://raw.githubusercontent.com/donnemartin/ipython-data-notebooks/master/images/matplotlib.png">
 </p>
 
 [Coming Soon] IPython Notebooks demonstrating matplotlib functionality.
 
+<br/>
 ## scikit-learn
 
-<br/>
 <p align="center">
   <img src="https://raw.githubusercontent.com/donnemartin/ipython-data-notebooks/master/images/scikitlearn.png">
 </p>
 
 [Coming Soon] IPython Notebooks demonstrating scikit-learn functionality.
 
+<br/>
 ## scipy
 
-<br/>
 <p align="center">
   <img src="https://raw.githubusercontent.com/donnemartin/ipython-data-notebooks/master/images/scipy.png">
 </p>
 
 [Coming Soon] IPython Notebooks demonstrating SciPy functionality.
 
+<br/>
 ## numpy
 
-<br/>
 <p align="center">
   <img src="https://raw.githubusercontent.com/donnemartin/ipython-data-notebooks/master/images/numpy.png">
 </p>
 
 [Coming Soon] IPython Notebooks demonstrating NumPy functionality.
 
+<br/>
 ## License
 
     Copyright 2014 Donne Martin
