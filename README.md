@@ -6,11 +6,11 @@
 Continually updated IPython Data Science Notebooks geared towards processing big data (AWS, Spark, Hadoop MapReduce, HDFS, Linux command line, Python, NumPy, pandas, matplotlib, SciPy, scikit-learn, Kaggle).
 
 <br/>
-## kaggle
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/donnemartin/ipython-data-notebooks/master/images/kaggle.png">
 </p>
+
+## kaggle
 
 IPython Notebooks used in [kaggle](https://www.kaggle.com/) competitions.
 
@@ -19,11 +19,11 @@ IPython Notebooks used in [kaggle](https://www.kaggle.com/) competitions.
 | [titanic](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/kaggle/titanic.ipynb) | Predicts survival on the Titanic.  Demonstrates data cleaning, exploratory data analysis, and machine learning. |
 
 <br/>
-## spark
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/donnemartin/ipython-data-notebooks/master/images/spark.png">
 </p>
+
+## spark
 
 IPython Notebooks demonstrating spark and HDFS functionality.
 
@@ -33,11 +33,11 @@ IPython Notebooks demonstrating spark and HDFS functionality.
 | [hdfs](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/spark/hdfs.ipynb) | Reliably stores very large files across machines in a large cluster. |
 
 <br/>
-## aws
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/donnemartin/ipython-data-notebooks/master/images/aws.png">
 </p>
+
+## aws
 
 IPython Notebooks demonstrating Amazon Web Services functionality.
 
@@ -52,11 +52,11 @@ IPython Notebooks demonstrating Amazon Web Services functionality.
 | [lambda](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/aws/aws.ipynb#lambda) | Runs code in response to events, automatically managing compute resources. |
 
 <br/>
-## python-core
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/donnemartin/ipython-data-notebooks/master/images/python.png">
 </p>
+
+## python-core
 
 IPython Notebooks demonstrating core Python functionality geared towards data analysis.
 
@@ -69,11 +69,11 @@ IPython Notebooks demonstrating core Python functionality geared towards data an
 | [unit tests](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/python-core/unit_tests.ipynb) | Nose unit tests. |
 
 <br/>
-## pandas
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/donnemartin/ipython-data-notebooks/master/images/pandas.png">
 </p>
+
+## pandas
 
 IPython Notebooks demonstrating pandas functionality.
 
@@ -84,11 +84,11 @@ IPython Notebooks demonstrating pandas functionality.
 | [pandas cleaning](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/pandas/pandas_clean.ipynb) | Data wrangling operations. |
 
 <br/>
-## commands
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/donnemartin/ipython-data-notebooks/master/images/commands.png">
 </p>
+
+## commands
 
 IPython Notebooks demonstrating various command lines for Linux, Git, etc.
 
@@ -102,42 +102,41 @@ IPython Notebooks demonstrating various command lines for Linux, Git, etc.
 | [jekyll](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/commands/misc.ipynb#jekyll) | Simple, blog-aware, static site generator for personal, project, or organization sites.  Renders Markdown or Textile and Liquid templates, and produces a complete, static website ready to be served by Apache HTTP Server, Nginx or another web server. |
 
 <br/>
-## matplotlib
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/donnemartin/ipython-data-notebooks/master/images/matplotlib.png">
 </p>
 
+## matplotlib
+
 [Coming Soon] IPython Notebooks demonstrating matplotlib functionality.
 
 <br/>
-## scikit-learn
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/donnemartin/ipython-data-notebooks/master/images/scikitlearn.png">
 </p>
 
+## scikit-learn
+
 [Coming Soon] IPython Notebooks demonstrating scikit-learn functionality.
 
 <br/>
-## scipy
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/donnemartin/ipython-data-notebooks/master/images/scipy.png">
 </p>
 
+## scipy
+
 [Coming Soon] IPython Notebooks demonstrating SciPy functionality.
 
 <br/>
-## numpy
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/donnemartin/ipython-data-notebooks/master/images/numpy.png">
 </p>
 
+## numpy
+
 [Coming Soon] IPython Notebooks demonstrating NumPy functionality.
 
-<br/>
 ## License
 
     Copyright 2014 Donne Martin
