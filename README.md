@@ -1,7 +1,14 @@
-![alt text](http://i2.wp.com/donnemartin.com/wp-content/uploads/2015/02/ipython_notebook_cover2-e1425213196820.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/donnemartin/ipython-data-notebooks/master/images/coversmall.png">
+</p>
 
 # ipython-data-notebooks
 Continually updated IPython Data Science Notebooks geared towards processing big data (AWS, Spark, Hadoop MapReduce, HDFS, Linux command line, Python, NumPy, pandas, matplotlib, SciPy, scikit-learn, Kaggle).
+
+<br/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/donnemartin/ipython-data-notebooks/master/images/kaggle.png">
+</p>
 
 ## kaggle
 
@@ -11,6 +18,11 @@ IPython Notebooks used in [kaggle](https://www.kaggle.com/) competitions.
 |-------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
 | [titanic](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/kaggle/titanic.ipynb) | Predicts survival on the Titanic.  Demonstrates data cleaning, exploratory data analysis, and machine learning. |
 
+<br/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/donnemartin/ipython-data-notebooks/master/images/spark.png">
+</p>
+
 ## spark
 
 IPython Notebooks demonstrating spark and HDFS functionality.
@@ -19,6 +31,11 @@ IPython Notebooks demonstrating spark and HDFS functionality.
 |--------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
 | [spark](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/spark/spark.ipynb) | In-memory cluster computing framework, up to 100 times faster for certain applications and is well suited for machine learning algorithms. |
 | [hdfs](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/spark/hdfs.ipynb) | Reliably stores very large files across machines in a large cluster. |
+
+<br/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/donnemartin/ipython-data-notebooks/master/images/aws.png">
+</p>
 
 ## aws
 
@@ -34,6 +51,11 @@ IPython Notebooks demonstrating Amazon Web Services functionality.
 | [kinesis](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/aws/aws.ipynb#kinesis) | Streams data in real time with the ability to process thousands of data streams per second. |
 | [lambda](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/aws/aws.ipynb#lambda) | Runs code in response to events, automatically managing compute resources. |
 
+<br/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/donnemartin/ipython-data-notebooks/master/images/python.png">
+</p>
+
 ## python-core
 
 IPython Notebooks demonstrating core Python functionality geared towards data analysis.
@@ -46,6 +68,11 @@ IPython Notebooks demonstrating core Python functionality geared towards data an
 | [datetime](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/python-core/datetime.ipynb) | Datetime, strftime, strptime, timedelta. |
 | [unit tests](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/python-core/unit_tests.ipynb) | Nose unit tests. |
 
+<br/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/donnemartin/ipython-data-notebooks/master/images/pandas.png">
+</p>
+
 ## pandas
 
 IPython Notebooks demonstrating pandas functionality.
@@ -55,6 +82,11 @@ IPython Notebooks demonstrating pandas functionality.
 | [pandas](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/pandas/pandas.ipynb) | Software library written for data manipulation and analysis in Python. Offers data structures and operations for manipulating numerical tables and time series. |
 | [pandas io](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/pandas/pandas_io.ipynb) | Input and output operations. |
 | [pandas cleaning](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/pandas/pandas_clean.ipynb) | Data wrangling operations. |
+
+<br/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/donnemartin/ipython-data-notebooks/master/images/commands.png">
+</p>
 
 ## commands
 
@@ -69,28 +101,41 @@ IPython Notebooks demonstrating various command lines for Linux, Git, etc.
 | [ruby](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/commands/misc.ipynb#ruby) | Used to interact with the AWS command line and for Jekyll, a blog framework that can be hosted on GitHub Pages. |
 | [jekyll](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/commands/misc.ipynb#jekyll) | Simple, blog-aware, static site generator for personal, project, or organization sites.  Renders Markdown or Textile and Liquid templates, and produces a complete, static website ready to be served by Apache HTTP Server, Nginx or another web server. |
 
+<br/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/donnemartin/ipython-data-notebooks/master/images/matplotlib.png">
+</p>
+
 ## matplotlib
 
 [Coming Soon] IPython Notebooks demonstrating matplotlib functionality.
+
+<br/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/donnemartin/ipython-data-notebooks/master/images/scikitlearn.png">
+</p>
 
 ## scikit-learn
 
 [Coming Soon] IPython Notebooks demonstrating scikit-learn functionality.
 
+<br/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/donnemartin/ipython-data-notebooks/master/images/scipy.png">
+</p>
+
 ## scipy
 
 [Coming Soon] IPython Notebooks demonstrating SciPy functionality.
 
+<br/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/donnemartin/ipython-data-notebooks/master/images/numpy.png">
+</p>
+
 ## numpy
 
 [Coming Soon] IPython Notebooks demonstrating NumPy functionality.
-
-## References
-
-* [Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython](http://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1449319793)
-* [Building Machine Learning Systems with Python](http://www.amazon.com/Building-Machine-Learning-Systems-Python/dp/1782161406)
-* [Think Bayes](http://www.amazon.com/Think-Bayes-Allen-B-Downey/dp/1449370780)
-* [Think Stats](http://www.amazon.com/Think-Stats-Allen-B-Downey/dp/1449307116)
 
 ## License
 
