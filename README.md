@@ -43,27 +43,31 @@ IPython Notebooks demonstrating core Python functionality geared towards data an
 | [data structures](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/python-core/structs.ipynb) | Tuples, lists, dicts, sets. |
 | [data structure utilities](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/python-core/structs_utils.ipynb) | Slice, range, xrange, bisect, sort, sorted, reversed, enumerate, zip, list comprehensions. |
 | [functions](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/python-core/functions.ipynb) | Functions as objects, lambda functions, closures, *args, **kwargs currying, generators, generator expressions, itertools. |
-| [datetime](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/python-core/datetime.ipynb) | Basics of datetime, strftime, strptime, timedelta. |
+| [datetime](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/python-core/datetime.ipynb) | Datetime, strftime, strptime, timedelta. |
 | [unit tests](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/python-core/unit_tests.ipynb) | Nose unit tests. |
 
 ## pandas
 
 IPython Notebooks demonstrating pandas functionality.
 
-* [pandas](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/pandas/pandas.ipynb)
-* [pandas io](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/pandas/pandas_io.ipynb)
-* [pandas cleaning](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/pandas/pandas_clean.ipynb)
+| Notebook | Description |
+|--------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [pandas](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/pandas/pandas.ipynb) | Software library written for data manipulation and analysis in Python. Offers data structures and operations for manipulating numerical tables and time series. |
+| [pandas io](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/pandas/pandas_io.ipynb) | Input and output operations. |
+| [pandas cleaning](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/pandas/pandas_clean.ipynb) | Data wrangling operations. |
 
 ## commands
 
 IPython Notebooks demonstrating various command lines for Linux, Git, etc.
 
-* [linux](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/commands/linux.ipynb)
-* [anaconda](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/commands/misc.ipynb#anaconda)
-* [ipython notebook](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/commands/misc.ipynb#ipython-notebook)
-* [git](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/commands/misc.ipynb#git)
-* [ruby](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/commands/misc.ipynb#ruby)
-* [jekyll](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/commands/misc.ipynb#jekyll)
+| Notebook | Description |
+|--------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [linux](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/commands/linux.ipynb) | Unix-like and mostly POSIX-compliant computer operating system. |
+| [anaconda](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/commands/misc.ipynb#anaconda) | Distribution of the Python programming language for large-scale data processing, predictive analytics, and scientific computing, that aims to simplify package management and deployment. |
+| [ipython notebook](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/commands/misc.ipynb#ipython-notebook) | Web-based interactive computational environment where you can combine code execution, text, mathematics, plots and rich media into a single document. |
+| [git](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/commands/misc.ipynb#git) | Distributed revision control system with an emphasis on speed, data integrity, and support for distributed, non-linear workflows. |
+| [ruby](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/commands/misc.ipynb#ruby) | Used to interact with the AWS command line and for Jekyll, a blog framework that can be hosted on GitHub Pages. |
+| [jekyll](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/commands/misc.ipynb#jekyll) | Simple, blog-aware, static site generator for personal, project, or organization sites.  Renders Markdown or Textile and Liquid templates, and produces a complete, static website ready to be served by Apache HTTP Server, Nginx or another web server. |
 
 ## matplotlib
 
