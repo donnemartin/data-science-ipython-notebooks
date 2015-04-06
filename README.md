@@ -12,7 +12,7 @@ Continually updated IPython Data Science Notebooks geared towards processing big
 
 ## kaggle
 
-IPython Notebooks used in [kaggle](https://www.kaggle.com/) competitions.
+IPython Notebook(s) used in [kaggle](https://www.kaggle.com/) competitions.
 
 | Notebook | Description |
 |-------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
@@ -25,7 +25,7 @@ IPython Notebooks used in [kaggle](https://www.kaggle.com/) competitions.
 
 ## spark
 
-IPython Notebooks demonstrating spark and HDFS functionality.
+IPython Notebook(s) demonstrating spark and HDFS functionality.
 
 | Notebook | Description |
 |--------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
@@ -39,7 +39,7 @@ IPython Notebooks demonstrating spark and HDFS functionality.
 
 ## aws
 
-IPython Notebooks demonstrating Amazon Web Services functionality.
+IPython Notebook(s) demonstrating Amazon Web Services functionality.
 
 | Notebook | Description |
 |------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -58,7 +58,7 @@ IPython Notebooks demonstrating Amazon Web Services functionality.
 
 ## python-core
 
-IPython Notebooks demonstrating core Python functionality geared towards data analysis.
+IPython Notebook(s) demonstrating core Python functionality geared towards data analysis.
 
 | Notebook | Description |
 |-----------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
@@ -75,7 +75,7 @@ IPython Notebooks demonstrating core Python functionality geared towards data an
 
 ## pandas
 
-IPython Notebooks demonstrating pandas functionality.
+IPython Notebook(s) demonstrating pandas functionality.
 
 | Notebook | Description |
 |--------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -85,12 +85,25 @@ IPython Notebooks demonstrating pandas functionality.
 
 <br/>
 <p align="center">
+  <img src="https://raw.githubusercontent.com/donnemartin/ipython-data-notebooks/master/images/matplotlib.png">
+</p>
+
+## matplotlib
+
+IPython Notebook(s) demonstrating matplotlib functionality.
+
+| Notebook | Description |
+|-----------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [matplotlib](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/matplotlib/matplotlib.ipynb) | Python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms. |
+
+<br/>
+<p align="center">
   <img src="https://raw.githubusercontent.com/donnemartin/ipython-data-notebooks/master/images/commands.png">
 </p>
 
 ## commands
 
-IPython Notebooks demonstrating various command lines for Linux, Git, etc.
+IPython Notebook(s) demonstrating various command lines for Linux, Git, etc.
 
 | Notebook | Description |
 |--------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -103,21 +116,12 @@ IPython Notebooks demonstrating various command lines for Linux, Git, etc.
 
 <br/>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/donnemartin/ipython-data-notebooks/master/images/matplotlib.png">
-</p>
-
-## matplotlib
-
-[Coming Soon] IPython Notebooks demonstrating matplotlib functionality.
-
-<br/>
-<p align="center">
   <img src="https://raw.githubusercontent.com/donnemartin/ipython-data-notebooks/master/images/scikitlearn.png">
 </p>
 
 ## scikit-learn
 
-[Coming Soon] IPython Notebooks demonstrating scikit-learn functionality.
+[Coming Soon] IPython Notebook(s) demonstrating scikit-learn functionality.
 
 <br/>
 <p align="center">
@@ -126,7 +130,7 @@ IPython Notebooks demonstrating various command lines for Linux, Git, etc.
 
 ## scipy
 
-[Coming Soon] IPython Notebooks demonstrating SciPy functionality.
+[Coming Soon] IPython Notebook(s) demonstrating SciPy functionality.
 
 <br/>
 <p align="center">
@@ -135,7 +139,7 @@ IPython Notebooks demonstrating various command lines for Linux, Git, etc.
 
 ## numpy
 
-[Coming Soon] IPython Notebooks demonstrating NumPy functionality.
+[Coming Soon] IPython Notebook(s) demonstrating NumPy functionality.
 
 ## License
 
