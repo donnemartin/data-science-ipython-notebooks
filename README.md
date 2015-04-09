@@ -141,6 +141,14 @@ IPython Notebook(s) demonstrating various command lines for Linux, Git, etc.
 
 [Coming Soon] IPython Notebook(s) demonstrating NumPy functionality.
 
+## References
+
+* [Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython](http://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1449319793)
+* [Building Machine Learning Systems with Python](http://www.amazon.com/Building-Machine-Learning-Systems-Python/dp/1782161406)
+* [sklearn_pycon2015](https://github.com/jakevdp/sklearn_pycon2015)
+* [parallel_ml_tutorial](https://github.com/ogrisel/parallel_ml_tutorial)
+* [Think Stats](http://www.amazon.com/Think-Stats-Allen-B-Downey/dp/1449307116)
+
 ## License
 
     Copyright 2014 Donne Martin
