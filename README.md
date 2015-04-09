@@ -116,6 +116,19 @@ IPython Notebook(s) demonstrating various command lines for Linux, Git, etc.
 
 <br/>
 <p align="center">
+  <img src="https://raw.githubusercontent.com/donnemartin/ipython-data-notebooks/master/images/numpy.png">
+</p>
+
+## numpy
+
+IPython Notebook(s) demonstrating NumPy functionality.
+
+| Notebook | Description |
+|--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [numpy](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/numpy/numpy.ipynb) | Adds Python support for large, multi-dimensional arrays and matrices, along with a large library of high-level mathematical functions to operate on these arrays. |
+
+<br/>
+<p align="center">
   <img src="https://raw.githubusercontent.com/donnemartin/ipython-data-notebooks/master/images/scikitlearn.png">
 </p>
 
@@ -131,15 +144,6 @@ IPython Notebook(s) demonstrating various command lines for Linux, Git, etc.
 ## scipy
 
 [Coming Soon] IPython Notebook(s) demonstrating SciPy functionality.
-
-<br/>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/donnemartin/ipython-data-notebooks/master/images/numpy.png">
-</p>
-
-## numpy
-
-[Coming Soon] IPython Notebook(s) demonstrating NumPy functionality.
 
 ## References
 
