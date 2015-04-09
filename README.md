@@ -98,6 +98,19 @@ IPython Notebook(s) demonstrating matplotlib functionality.
 
 <br/>
 <p align="center">
+  <img src="https://raw.githubusercontent.com/donnemartin/ipython-data-notebooks/master/images/numpy.png">
+</p>
+
+## numpy
+
+IPython Notebook(s) demonstrating NumPy functionality.
+
+| Notebook | Description |
+|--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [numpy](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/numpy/numpy.ipynb) | Adds Python support for large, multi-dimensional arrays and matrices, along with a large library of high-level mathematical functions to operate on these arrays. |
+
+<br/>
+<p align="center">
   <img src="https://raw.githubusercontent.com/donnemartin/ipython-data-notebooks/master/images/commands.png">
 </p>
 
@@ -113,19 +126,6 @@ IPython Notebook(s) demonstrating various command lines for Linux, Git, etc.
 | [git](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/commands/misc.ipynb#git) | Distributed revision control system with an emphasis on speed, data integrity, and support for distributed, non-linear workflows. |
 | [ruby](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/commands/misc.ipynb#ruby) | Used to interact with the AWS command line and for Jekyll, a blog framework that can be hosted on GitHub Pages. |
 | [jekyll](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/commands/misc.ipynb#jekyll) | Simple, blog-aware, static site generator for personal, project, or organization sites.  Renders Markdown or Textile and Liquid templates, and produces a complete, static website ready to be served by Apache HTTP Server, Nginx or another web server. |
-
-<br/>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/donnemartin/ipython-data-notebooks/master/images/numpy.png">
-</p>
-
-## numpy
-
-IPython Notebook(s) demonstrating NumPy functionality.
-
-| Notebook | Description |
-|--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [numpy](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/numpy/numpy.ipynb) | Adds Python support for large, multi-dimensional arrays and matrices, along with a large library of high-level mathematical functions to operate on these arrays. |
 
 <br/>
 <p align="center">
