@@ -16,7 +16,7 @@ Continually updated IPython Data Science Notebooks: Spark, Hadoop MapReduce, HDF
 * [pandas](#pandas)
 * [numpy](#numpy)
 * [scipy](#scipy)
-* [python](#python-core)
+* [python](#python-data)
 * [command lines](#commands)
 * [credits](#credits)
 * [license](#license)
@@ -67,10 +67,6 @@ IPython Notebook(s) used in [kaggle](https://www.kaggle.com/) competitions.
 |-------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
 | [titanic](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/kaggle/titanic.ipynb) | Predicts survival on the Titanic.  Demonstrates data cleaning, exploratory data analysis, and machine learning. |
 
-<br/>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/donnemartin/ipython-data-notebooks/master/images/python.png">
-</p>
 <br/>
 <p align="center">
   <img src="https://raw.githubusercontent.com/donnemartin/ipython-data-notebooks/master/images/scikitlearn.png">
@@ -136,20 +132,25 @@ IPython Notebook(s) demonstrating NumPy functionality.
 
 <br/>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/donnemartin/ipython-data-notebooks/master/images/commands.png">
+  <img src="https://raw.githubusercontent.com/donnemartin/ipython-data-notebooks/master/images/python.png">
 </p>
 
-## python-core
+## python-data
 
-IPython Notebook(s) demonstrating core Python functionality geared towards data analysis.
+IPython Notebook(s) demonstrating Python functionality geared towards data analysis.
 
 | Notebook | Description |
 |-----------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| [data structures](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/python-core/structs.ipynb) | Tuples, lists, dicts, sets. |
-| [data structure utilities](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/python-core/structs_utils.ipynb) | Slice, range, xrange, bisect, sort, sorted, reversed, enumerate, zip, list comprehensions. |
-| [functions](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/python-core/functions.ipynb) | Functions as objects, lambda functions, closures, *args, **kwargs currying, generators, generator expressions, itertools. |
-| [datetime](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/python-core/datetime.ipynb) | Datetime, strftime, strptime, timedelta. |
-| [unit tests](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/python-core/unit_tests.ipynb) | Nose unit tests. |
+| [data structures](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/python-data/structs.ipynb) | Tuples, lists, dicts, sets. |
+| [data structure utilities](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/python-data/structs_utils.ipynb) | Slice, range, xrange, bisect, sort, sorted, reversed, enumerate, zip, list comprehensions. |
+| [functions](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/python-data/functions.ipynb) | Functions as objects, lambda functions, closures, *args, **kwargs currying, generators, generator expressions, itertools. |
+| [datetime](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/python-data/datetime.ipynb) | Datetime, strftime, strptime, timedelta. |
+| [unit tests](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/python-data/unit_tests.ipynb) | Nose unit tests. |
+
+<br/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/donnemartin/ipython-data-notebooks/master/images/commands.png">
+</p>
 
 ## commands
 
