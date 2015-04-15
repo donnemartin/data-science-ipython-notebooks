@@ -5,22 +5,6 @@
 # ipython-data-notebooks
 Continually updated IPython Data Science Notebooks: Spark, Hadoop MapReduce, HDFS, AWS, Kaggle, scikit-learn, matplotlib, pandas, NumPy, SciPy, Python, and various command lines.
 
-## Index
-
-* [spark and hdfs](#spark)
-* [hadoop mapreduce](#aws)
-* [amazon web services](#aws)
-* [kaggle](#kaggle)
-* [scikit-learn](#scikit-learn)
-* [matplotlib](#matplotlib)
-* [pandas](#pandas)
-* [numpy](#numpy)
-* [scipy](#scipy)
-* [python](#python-data)
-* [command lines](#commands)
-* [credits](#credits)
-* [license](#license)
-
 <br/>
 <p align="center">
   <img src="https://raw.githubusercontent.com/donnemartin/ipython-data-notebooks/master/images/spark.png">
@@ -37,6 +21,19 @@ IPython Notebook(s) demonstrating spark and HDFS functionality.
 
 <br/>
 <p align="center">
+  <img src="https://raw.githubusercontent.com/donnemartin/ipython-data-notebooks/master/images/mrjob.png">
+</p>
+
+## mapreduce-python
+
+IPython Notebook(s) demonstrating Hadoop MapReduce functionality.
+
+| Notebook | Description |
+|--------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
+| [mapreduce-python](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/mapreduce/mapreduce-python.ipynb) | Supports MapReduce jobs in Python, running them locally or on Hadoop clusters. |
+
+<br/>
+<p align="center">
   <img src="https://raw.githubusercontent.com/donnemartin/ipython-data-notebooks/master/images/aws.png">
 </p>
 
@@ -46,9 +43,8 @@ IPython Notebook(s) demonstrating Amazon Web Services (AWS) and AWS tools functi
 
 | Notebook | Description |
 |------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [mrjob](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/aws/aws.ipynb#mrjob) | Supports MapReduce jobs in Python 2.5+ and runs them locally or on Hadoop clusters. |
-| [s3distcp](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/aws/aws.ipynb#s3distcp) | Combines smaller files and aggregates them together by taking in a pattern and target file.  S3DistCp can also be used to transfer large volumes of data from S3 to your Hadoop cluster. |
 | [s3cmd](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/aws/aws.ipynb#s3cmd) | Interacts with S3 through the command line. |
+| [s3distcp](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/aws/aws.ipynb#s3distcp) | Combines smaller files and aggregates them together by taking in a pattern and target file.  S3DistCp can also be used to transfer large volumes of data from S3 to your Hadoop cluster. |
 | [s3-parallel-put](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/aws/aws.ipynb#s3-parallel-put) | Uploads multiple files to S3 in parallel. |
 | [redshift](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/aws/aws.ipynb#redshift) | Acts as a fast data warehouse built on top of technology from massive parallel processing (MPP). |
 | [kinesis](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/aws/aws.ipynb#kinesis) | Streams data in real time with the ability to process thousands of data streams per second. |
@@ -173,6 +169,8 @@ IPython Notebook(s) demonstrating various command lines for Linux, Git, etc.
 * [PyCon 2015 Scikit-learn Tutorial](https://github.com/jakevdp/sklearn_pycon2015) by Jake VanderPlas
 * [Parallel Machine Learning with scikit-learn and IPython](https://github.com/ogrisel/parallel_ml_tutorial) by Olivier Grisel
 * [Think Stats](http://www.amazon.com/Think-Stats-Allen-B-Downey/dp/1449307116) by Allen Downey
+* [Spark Docs](https://spark.apache.org/docs/latest/)
+* [AWS Docs](http://aws.amazon.com/documentation/)
 
 ## license
 
