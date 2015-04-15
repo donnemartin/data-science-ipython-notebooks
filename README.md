@@ -140,6 +140,15 @@ IPython Notebook(s) demonstrating NumPy functionality.
 
 <br/>
 <p align="center">
+  <img src="https://raw.githubusercontent.com/donnemartin/ipython-data-notebooks/master/images/scipy.png">
+</p>
+
+## scipy
+
+[Coming Soon] IPython Notebook(s) demonstrating SciPy functionality.
+
+<br/>
+<p align="center">
   <img src="https://raw.githubusercontent.com/donnemartin/ipython-data-notebooks/master/images/commands.png">
 </p>
 
@@ -156,22 +165,14 @@ IPython Notebook(s) demonstrating various command lines for Linux, Git, etc.
 | [ruby](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/commands/misc.ipynb#ruby) | Used to interact with the AWS command line and for Jekyll, a blog framework that can be hosted on GitHub Pages. |
 | [jekyll](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/commands/misc.ipynb#jekyll) | Simple, blog-aware, static site generator for personal, project, or organization sites.  Renders Markdown or Textile and Liquid templates, and produces a complete, static website ready to be served by Apache HTTP Server, Nginx or another web server. |
 
-<br/>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/donnemartin/ipython-data-notebooks/master/images/scipy.png">
-</p>
-
-## scipy
-
-[Coming Soon] IPython Notebook(s) demonstrating SciPy functionality.
-
 ## references
 
-* [Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython](http://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1449319793)
-* [Building Machine Learning Systems with Python](http://www.amazon.com/Building-Machine-Learning-Systems-Python/dp/1782161406)
-* [sklearn_pycon2015](https://github.com/jakevdp/sklearn_pycon2015)
-* [parallel_ml_tutorial](https://github.com/ogrisel/parallel_ml_tutorial)
-* [Think Stats](http://www.amazon.com/Think-Stats-Allen-B-Downey/dp/1449307116)
+* [Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython](http://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1449319793) by Wes McKinney
+* [Building Machine Learning Systems with Python](http://www.amazon.com/Building-Machine-Learning-Systems-Python/dp/1782161406) by Willi Richert, Luis Pedro Coelho
+* [Programming Collective Intelligence: Building Smart Web 2.0 Applications](http://www.amazon.com/Programming-Collective-Intelligence-Building-Applications/dp/0596529325/) by Toby Segaran
+* [PyCon 2015 Scikit-learn Tutorial](https://github.com/jakevdp/sklearn_pycon2015) by Jake VanderPlas
+* [Parallel Machine Learning with scikit-learn and IPython](https://github.com/ogrisel/parallel_ml_tutorial) by Olivier Grisel
+* [Think Stats](http://www.amazon.com/Think-Stats-Allen-B-Downey/dp/1449307116) by Allen Downey
 
 ## license
 
