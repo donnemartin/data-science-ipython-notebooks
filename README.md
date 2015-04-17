@@ -26,11 +26,11 @@ IPython Notebook(s) demonstrating spark and HDFS functionality.
 
 ## mapreduce-python
 
-IPython Notebook(s) demonstrating Hadoop MapReduce functionality.
+IPython Notebook(s) demonstrating Hadoop MapReduce with mrjob functionality.
 
 | Notebook | Description |
 |--------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
-| [mapreduce-python](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/mapreduce/mapreduce-python.ipynb) | Supports MapReduce jobs in Python, running them locally or on Hadoop clusters. |
+| [mapreduce-python](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/mapreduce/mapreduce-python.ipynb) | Supports MapReduce jobs in Python with [mrjob](https://github.com/Yelp/mrjob), running them locally or on Hadoop clusters. |
 
 <br/>
 <p align="center">
