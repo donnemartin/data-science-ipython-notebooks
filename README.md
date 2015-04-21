@@ -75,6 +75,7 @@ IPython Notebook(s) demonstrating scikit-learn functionality.
 | Notebook | Description |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [scikit-learn-intro](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/scikit-learn/scikit-learn-intro.ipynb) | Intro notebook to scikit-learn.  Scikit-learn adds Python support for large, multi-dimensional arrays and matrices, along with a large library of high-level mathematical functions to operate on these arrays. |
+| [scikit-learn-knn](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/scikit-learn/scikit-learn-intro.ipynb#K-Nearest-Neighbors-Classifier) | K-Nearest Neighbors. |
 | [scikit-learn-linear-reg](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/scikit-learn/scikit-learn-linear-reg.ipynb) | Linear regression. |
 | [scikit-learn-svm](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/scikit-learn/scikit-learn-svm.ipynb) | Support vector machine classifier, with and without kernels. |
 
