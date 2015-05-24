@@ -2,8 +2,10 @@
   <img src="https://raw.githubusercontent.com/donnemartin/ipython-data-notebooks/master/images/coversmall.png">
 </p>
 
-# ipython-data-notebooks
-Continually updated IPython Data Science Notebooks: Spark, Hadoop MapReduce, HDFS, AWS, Kaggle, scikit-learn, matplotlib, pandas, NumPy, SciPy, Python, and various command lines.
+# data-science-ipython-notebooks
+Continually updated Data Science IPython Notebooks: Spark, Hadoop MapReduce, HDFS, AWS, Kaggle, scikit-learn, matplotlib, pandas, NumPy, SciPy, Python, and various command lines.
+
+This repo is a collection of IPython Notebooks I have created or reference while working with data.
 
 <br/>
 <p align="center">
