@@ -81,19 +81,6 @@ IPython Notebook(s) demonstrating scikit-learn functionality.
 
 <br/>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/donnemartin/ipython-data-notebooks/master/images/matplotlib.png">
-</p>
-
-## matplotlib
-
-IPython Notebook(s) demonstrating matplotlib functionality.
-
-| Notebook | Description |
-|-----------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [matplotlib](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/matplotlib/matplotlib.ipynb) | Python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms. |
-
-<br/>
-<p align="center">
   <img src="https://raw.githubusercontent.com/donnemartin/ipython-data-notebooks/master/images/pandas.png">
 </p>
 
@@ -106,6 +93,19 @@ IPython Notebook(s) demonstrating pandas functionality.
 | [pandas](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/pandas/pandas.ipynb) | Software library written for data manipulation and analysis in Python. Offers data structures and operations for manipulating numerical tables and time series. |
 | [pandas io](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/pandas/pandas_io.ipynb) | Input and output operations. |
 | [pandas cleaning](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/pandas/pandas_clean.ipynb) | Data wrangling operations. |
+
+<br/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/donnemartin/ipython-data-notebooks/master/images/matplotlib.png">
+</p>
+
+## matplotlib
+
+IPython Notebook(s) demonstrating matplotlib functionality.
+
+| Notebook | Description |
+|-----------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [matplotlib](http://nbviewer.ipython.org/github/donnemartin/ipython-data-notebooks/blob/master/matplotlib/matplotlib.ipynb) | Python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms. |
 
 <br/>
 <p align="center">
