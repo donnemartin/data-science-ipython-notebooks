@@ -7,6 +7,22 @@ Continually updated Data Science IPython Notebooks: Spark, Hadoop MapReduce, HDF
 
 This repo is a collection of IPython Notebooks I have created or reference while working with data.
 
+## Index
+
+* [spark](#spark)
+* [mapreduce-python](#mapreduce-python)
+* [amazon web services](#aws)
+* [kaggle](#kaggle)
+* [scikit-learn](#scikit-learn)
+* [pandas](#pandas)
+* [matplotlib](#matplotlib)
+* [numpy](#numpy)
+* [scipy](#scipy)
+* [python-data](#python-data)
+* [command lines](#commands)
+* [credits](#credits)
+* [license](#license)
+
 <br/>
 <p align="center">
   <img src="https://raw.githubusercontent.com/donnemartin/ipython-data-notebooks/master/images/spark.png">
