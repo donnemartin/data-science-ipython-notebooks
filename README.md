@@ -191,15 +191,15 @@ IPython Notebook(s) demonstrating various command lines for Linux, Git, etc.
 * [Building Machine Learning Systems with Python](http://www.amazon.com/Building-Machine-Learning-Systems-Python/dp/1782161406) by Willi Richert, Luis Pedro Coelho
 * [PyCon 2015 Scikit-learn Tutorial](https://github.com/jakevdp/sklearn_pycon2015) by Jake VanderPlas
 * [Parallel Machine Learning with scikit-learn and IPython](https://github.com/ogrisel/parallel_ml_tutorial) by Olivier Grisel
-* [Yhat blog](http://blog.yhathq.com/) Yhat.com
-* [Kaggle](https://www.kaggle.com/) Kaggle.com
+* [Yhat blog](http://blog.yhathq.com/) by Yhat
+* [Kaggle](https://www.kaggle.com/) by Kaggle
 * [Think Stats](http://www.amazon.com/Think-Stats-Allen-B-Downey/dp/1449307116) by Allen Downey
-* [Spark Docs](https://spark.apache.org/docs/latest/)
-* [AWS Docs](http://aws.amazon.com/documentation/)
+* [Spark Docs](https://spark.apache.org/docs/latest/) by Apache Spark
+* [AWS Docs](http://aws.amazon.com/documentation/) by Amazon Web Services
 
 ## license
 
-    Copyright 2014 Donne Martin
+    Copyright 2015 Donne Martin
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
