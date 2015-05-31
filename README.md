@@ -100,7 +100,7 @@ Credits: Forked from [PyCon 2015 Scikit-learn Tutorial](https://github.com/jakev
 | [scikit-learn-svm](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/scikit-learn/scikit-learn-svm.ipynb) | Support vector machine classifier, with and without kernels. |
 | [scikit-learn-random-forest](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/scikit-learn/scikit-learn-random-forest.ipynb) | Random forest classifier and regressor. |
 | [scikit-learn-k-means](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/scikit-learn/scikit-learn-k-means.ipynb) | K-Means Clustering. |
-| [scikit-learn-pca](#scikit-learn) | Coming Soon. |
+| [scikit-learn-pca](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/scikit-learn/scikit-learn-pca.ipynb) | Principal Component Analysis. |
 | [scikit-learn-validation](#scikit-learn) | Coming Soon. |
 
 <br/>
