@@ -90,12 +90,18 @@ IPython Notebook(s) used in [kaggle](https://www.kaggle.com/) competitions.
 
 IPython Notebook(s) demonstrating scikit-learn functionality.
 
+Credits: Forked from [PyCon 2015 Scikit-learn Tutorial](https://github.com/jakevdp/sklearn_pycon2015) by Jake VanderPlas
+
 | Notebook | Description |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [scikit-learn-intro](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/scikit-learn/scikit-learn-intro.ipynb) | Intro notebook to scikit-learn.  Scikit-learn adds Python support for large, multi-dimensional arrays and matrices, along with a large library of high-level mathematical functions to operate on these arrays. |
-| [scikit-learn-intro](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/scikit-learn/scikit-learn-intro.ipynb#K-Nearest-Neighbors-Classifier) | K-Nearest Neighbors. |
+| [scikit-learn-knn](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/scikit-learn/scikit-learn-intro.ipynb#K-Nearest-Neighbors-Classifier) | K-Nearest Neighbors. |
 | [scikit-learn-linear-reg](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/scikit-learn/scikit-learn-linear-reg.ipynb) | Linear regression. |
 | [scikit-learn-svm](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/scikit-learn/scikit-learn-svm.ipynb) | Support vector machine classifier, with and without kernels. |
+| [scikit-learn-random-forest](#scikit-learn) | Coming Soon. |
+| [scikit-learn-k-means](#scikit-learn) | Coming Soon. |
+| [scikit-learn-pca](#scikit-learn) | Coming Soon. |
+| [scikit-learn-validation](#scikit-learn) | Coming Soon. |
 
 <br/>
 <p align="center">
@@ -121,6 +127,8 @@ IPython Notebook(s) demonstrating pandas functionality.
 
 IPython Notebook(s) demonstrating matplotlib functionality.
 
+Credits: Some content forked from [Parallel Machine Learning with scikit-learn and IPython](https://github.com/ogrisel/parallel_ml_tutorial) by Olivier Grisel
+
 | Notebook | Description |
 |-----------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [matplotlib](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/matplotlib/matplotlib.ipynb) | Python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms. |
@@ -133,6 +141,8 @@ IPython Notebook(s) demonstrating matplotlib functionality.
 ## numpy
 
 IPython Notebook(s) demonstrating NumPy functionality.
+
+Credits: Forked from [Parallel Machine Learning with scikit-learn and IPython](https://github.com/ogrisel/parallel_ml_tutorial) by Olivier Grisel
 
 | Notebook | Description |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
