@@ -98,7 +98,7 @@ Credits: Forked from [PyCon 2015 Scikit-learn Tutorial](https://github.com/jakev
 | [scikit-learn-knn](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/scikit-learn/scikit-learn-intro.ipynb#K-Nearest-Neighbors-Classifier) | K-Nearest Neighbors. |
 | [scikit-learn-linear-reg](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/scikit-learn/scikit-learn-linear-reg.ipynb) | Linear regression. |
 | [scikit-learn-svm](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/scikit-learn/scikit-learn-svm.ipynb) | Support vector machine classifier, with and without kernels. |
-| [scikit-learn-random-forest](#scikit-learn) | Coming Soon. |
+| [scikit-learn-random-forest](#scikit-learn) | Random forest classifier and regressor. |
 | [scikit-learn-k-means](#scikit-learn) | Coming Soon. |
 | [scikit-learn-pca](#scikit-learn) | Coming Soon. |
 | [scikit-learn-validation](#scikit-learn) | Coming Soon. |
