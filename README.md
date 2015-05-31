@@ -198,13 +198,10 @@ IPython Notebook(s) demonstrating various command lines for Linux, Git, etc.
 ## credits
 
 * [Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython](http://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1449319793) by Wes McKinney
-* [Programming Collective Intelligence: Building Smart Web 2.0 Applications](http://www.amazon.com/Programming-Collective-Intelligence-Building-Applications/dp/0596529325/) by Toby Segaran
-* [Building Machine Learning Systems with Python](http://www.amazon.com/Building-Machine-Learning-Systems-Python/dp/1782161406) by Willi Richert, Luis Pedro Coelho
 * [PyCon 2015 Scikit-learn Tutorial](https://github.com/jakevdp/sklearn_pycon2015) by Jake VanderPlas
 * [Parallel Machine Learning with scikit-learn and IPython](https://github.com/ogrisel/parallel_ml_tutorial) by Olivier Grisel
 * [Yhat blog](http://blog.yhathq.com/) by Yhat
 * [Kaggle](https://www.kaggle.com/) by Kaggle
-* [Think Stats](http://www.amazon.com/Think-Stats-Allen-B-Downey/dp/1449307116) by Allen Downey
 * [Spark Docs](https://spark.apache.org/docs/latest/) by Apache Spark
 * [AWS Docs](http://aws.amazon.com/documentation/) by Amazon Web Services
 
