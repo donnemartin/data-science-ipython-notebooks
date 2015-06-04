@@ -102,7 +102,7 @@ Credits: Forked from [PyCon 2015 Scikit-learn Tutorial](https://github.com/jakev
 | [random-forest](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/scikit-learn/scikit-learn-random-forest.ipynb) | Random forest classifier and regressor. |
 | [k-means](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/scikit-learn/scikit-learn-k-means.ipynb) | K-means clustering. |
 | [pca](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/scikit-learn/scikit-learn-pca.ipynb) | Principal component analysis. |
-| [validation](#scikit-learn) | Coming soon. |
+| [validation](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/scikit-learn/scikit-learn-validation.ipynb) | Validation and model selection. |
 
 <br/>
 <p align="center">
