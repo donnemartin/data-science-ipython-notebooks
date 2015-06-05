@@ -21,6 +21,7 @@ This repo is a collection of IPython Notebooks I reference while working with da
 * [scipy](#scipy)
 * [python-data](#python-data)
 * [command lines](#commands)
+* [notebook-installation](#notebook-installation)
 * [credits](#credits)
 * [license](#license)
 
@@ -194,6 +195,20 @@ IPython Notebook(s) demonstrating various command lines for Linux, Git, etc.
 | [git](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/commands/misc.ipynb#git) | Distributed revision control system with an emphasis on speed, data integrity, and support for distributed, non-linear workflows. |
 | [ruby](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/commands/misc.ipynb#ruby) | Used to interact with the AWS command line and for Jekyll, a blog framework that can be hosted on GitHub Pages. |
 | [jekyll](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/commands/misc.ipynb#jekyll) | Simple, blog-aware, static site generator for personal, project, or organization sites.  Renders Markdown or Textile and Liquid templates, and produces a complete, static website ready to be served by Apache HTTP Server, Nginx or another web server. |
+
+## notebook-installation
+
+Anaconda is a free distribution of the Python programming language for large-scale data processing, predictive analytics, and scientific computing that aims to simplify package management and deployment.
+
+Follow instructions to install [Anaconda](http://docs.continuum.io/anaconda/install.html) or the more lightweight [miniconda](http://conda.pydata.org/miniconda.html).
+
+To view interactive content or to modify elements within the IPython notebooks, you must first clone or download the repository then run the ipython notebook.  More information on IPython Notebooks can be found [here](http://ipython.org/notebook.html)
+
+```
+$ git clone https://github.com/donnemartin/data-science-ipython-notebooks.git
+$ cd [downloaded repo directory name]
+$ ipython notebook
+```
 
 ## credits
 
