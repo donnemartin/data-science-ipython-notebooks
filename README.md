@@ -9,7 +9,7 @@ Continually updated Data Science IPython Notebooks.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/coversmall_alt.png">
-  Plots from <a href="https://github.com/jakevdp/sklearn_pycon2015">PyCon 2015 Scikit-learn Tutorial</a>
+  <br/>
 </p>
 
 Notebooks include: Spark, Hadoop MapReduce, HDFS, AWS, Kaggle, scikit-learn, matplotlib, pandas, NumPy, SciPy, Python, and various command lines.
