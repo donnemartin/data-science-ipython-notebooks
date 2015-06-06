@@ -1,12 +1,13 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/coversmall.png">
-  Graphs from <a href="https://github.com/jakevdp/sklearn_pycon2015">PyCon 2015 Scikit-learn Tutorial</a>
-</p>
-
 # data-science-ipython-notebooks
+
 Continually updated Data Science IPython Notebooks: Spark, Hadoop MapReduce, HDFS, AWS, Kaggle, scikit-learn, matplotlib, pandas, NumPy, SciPy, Python, and various command lines.
 
 This repo is a collection of IPython Notebooks I reference while working with data.
+
+<br/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/README_1200x800.gif">
+</p>
 
 ## Index
 
