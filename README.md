@@ -31,6 +31,7 @@ This repo is a collection of IPython Notebooks I reference while working with da
 * [command lines](#commands)
 * [notebook-installation](#notebook-installation)
 * [credits](#credits)
+* [contact-info](#contact-info)
 * [license](#license)
 
 <br/>
@@ -210,7 +211,7 @@ Anaconda is a free distribution of the Python programming language for large-sca
 
 Follow instructions to install [Anaconda](http://docs.continuum.io/anaconda/install.html) or the more lightweight [miniconda](http://conda.pydata.org/miniconda.html).
 
-To view interactive content or to modify elements within the IPython notebooks, you must first clone or download the repository then run the ipython notebook.  More information on IPython Notebooks can be found [here](http://ipython.org/notebook.html)
+To view interactive content or to modify elements within the IPython notebooks, you must first clone or download the repository then run the ipython notebook.  More information on IPython Notebooks can be found [here.](http://ipython.org/notebook.html)
 
 ```
 $ git clone https://github.com/donnemartin/data-science-ipython-notebooks.git
@@ -227,6 +228,16 @@ $ ipython notebook
 * [Kaggle](https://www.kaggle.com/) by Kaggle
 * [Spark Docs](https://spark.apache.org/docs/latest/) by Apache Spark
 * [AWS Docs](http://aws.amazon.com/documentation/) by Amazon Web Services
+
+## contact-info
+
+Feel free to contact me to discuss any issues, questions, or comments.
+
+* Email: [donne.martin@gmail.com](mailto:donne.martin@gmail.com)
+* Twitter: [@donne_martin](https://twitter.com/donne_martin)
+* GitHub: [donnemartin](https://github.com/donnemartin)
+* LinkedIn: [donnemartin](https://www.linkedin.com/in/donnemartin)
+* Website: [donnemartin.com](http://donnemartin.com)
 
 ## license
 
