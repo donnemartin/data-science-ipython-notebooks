@@ -14,7 +14,7 @@ Continually updated Data Science IPython Notebooks.
 
 This repo is a collection of IPython Notebooks I reference while working with data.
 
-Although I created most notebooks, some notebooks I reference were created by other authors who are credited by naming the authors and/or providing a link to the source.
+Although I created most notebooks, some notebooks I reference were created by other authors who are credited by providing their names and/or a link to their source.
 
 ## Index
 
