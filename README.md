@@ -12,9 +12,9 @@ Continually updated Data Science IPython Notebooks.
   <br/>
 </p>
 
-Notebooks include: Spark, Hadoop MapReduce, HDFS, AWS, Kaggle, scikit-learn, matplotlib, pandas, NumPy, SciPy, Python, and various command lines.
-
 This repo is a collection of IPython Notebooks I reference while working with data.
+
+Although I created most notebooks, some notebooks I reference were created by other authors who are credited by naming the authors and/or providing a link to the source.
 
 ## Index
 
