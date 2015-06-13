@@ -125,8 +125,6 @@ IPython Notebook(s) demonstrating pandas functionality.
 | Notebook | Description |
 |--------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [pandas](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/pandas/pandas.ipynb) | Software library written for data manipulation and analysis in Python. Offers data structures and operations for manipulating numerical tables and time series. |
-| [pandas io](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/pandas/pandas_io.ipynb) | Input and output operations. |
-| [pandas cleaning](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/pandas/pandas_clean.ipynb) | Data wrangling operations. |
 
 <br/>
 <p align="center">
