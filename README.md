@@ -19,7 +19,7 @@ This repo is a collection of IPython Notebooks I reference while working with da
 * [spark](#spark)
 * [mapreduce-python](#mapreduce-python)
 * [amazon web services](#aws)
-* [kaggle](#kaggle)
+* [kaggle-and-business-analyses](#kaggle-and-business-analyses)
 * [scikit-learn](#scikit-learn)
 * [pandas](#pandas)
 * [matplotlib](#matplotlib)
@@ -83,13 +83,14 @@ IPython Notebook(s) demonstrating Amazon Web Services (AWS) and AWS tools functi
   <img src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/kaggle.png">
 </p>
 
-## kaggle
+## kaggle-and-business-analyses
 
-IPython Notebook(s) used in [kaggle](https://www.kaggle.com/) competitions.
+IPython Notebook(s) used in [kaggle](https://www.kaggle.com/) competitions and business analyses.
 
 | Notebook | Description |
 |-------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
 | [titanic](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/kaggle/titanic.ipynb) | Predicts survival on the Titanic.  Demonstrates data cleaning, exploratory data analysis, and machine learning. |
+| [churn-analysis](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/analyses/churn.ipynb) | Predicts customer churn.  Exercises logistic regression, gradient boosting classifers, support vector machines, random forests, and k-nearest-neighbors.  Discussion of confusion matrices, ROC plots, feature importances, prediction probabilities, and calibration/descrimination.|
 
 <br/>
 <p align="center">
