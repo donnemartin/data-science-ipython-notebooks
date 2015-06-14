@@ -27,6 +27,7 @@ This repo is a collection of IPython Notebooks I reference while working with da
 * [scipy](#scipy)
 * [python-data](#python-data)
 * [command lines](#commands)
+* [misc](#misc)
 * [notebook-installation](#notebook-installation)
 * [credits](#credits)
 * [contact-info](#contact-info)
@@ -197,6 +198,14 @@ IPython Notebook(s) demonstrating various command lines for Linux, Git, etc.
 | [ruby](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/commands/misc.ipynb#ruby) | Used to interact with the AWS command line and for Jekyll, a blog framework that can be hosted on GitHub Pages. |
 | [jekyll](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/commands/misc.ipynb#jekyll) | Simple, blog-aware, static site generator for personal, project, or organization sites.  Renders Markdown or Textile and Liquid templates, and produces a complete, static website ready to be served by Apache HTTP Server, Nginx or another web server.  Pelican is a python-based alternative. |
 | [django](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/commands/misc.ipynb#django) | High-level Python Web framework that encourages rapid development and clean, pragmatic design. It can be useful to share reports/analyses and for blogging. Lighter-weight alternatives include Pyramid, Flask, and Bottle.
+
+## misc
+
+IPython Notebook(s) demonstrating miscellaneous functionality.
+
+| Notebook | Description |
+|--------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [regex](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/misc/regex.ipynb) | Regular expression cheat sheet useful in data wrangling.|
 
 ## notebook-installation
 
