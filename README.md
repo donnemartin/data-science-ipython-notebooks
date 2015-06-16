@@ -58,7 +58,7 @@ IPython Notebook(s) demonstrating Hadoop MapReduce with mrjob functionality.
 
 | Notebook | Description |
 |--------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
-| [mapreduce-python](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/mapreduce/mapreduce-python.ipynb) | Supports MapReduce jobs in Python with [mrjob](https://github.com/Yelp/mrjob), running them locally or on Hadoop clusters. Demonstrates mrjob code, unit test, and config file to analyze Amazon S3 bucket logs on Elastic MapReduce.|
+| [mapreduce-python](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/mapreduce/mapreduce-python.ipynb) | Supports MapReduce jobs in Python with [mrjob](https://github.com/Yelp/mrjob), running them locally or on Hadoop clusters. Demonstrates mrjob code, unit test, and config file to analyze Amazon S3 bucket logs on Elastic MapReduce.  [Disco](https://github.com/discoproject/disco/) is another python-based alternative.|
 
 <br/>
 <p align="center">
