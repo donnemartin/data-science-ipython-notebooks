@@ -30,6 +30,7 @@ This repo is a collection of IPython Notebooks I reference while working with da
 * [misc](#misc)
 * [notebook-installation](#notebook-installation)
 * [credits](#credits)
+* [contributing](#contributing)
 * [contact-info](#contact-info)
 * [license](#license)
 
@@ -231,6 +232,10 @@ $ ipython notebook
 * [Kaggle](https://www.kaggle.com/) by Kaggle
 * [Spark Docs](https://spark.apache.org/docs/latest/) by Apache Spark
 * [AWS Docs](http://aws.amazon.com/documentation/) by Amazon Web Services
+
+## contributing
+
+Contributions are welcome!  For bug reports or requests please [submit an issue](https://github.com/donnemartin/data-science-ipython-notebooks/issues).
 
 ## contact-info
 
