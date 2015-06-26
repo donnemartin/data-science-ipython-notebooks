@@ -1,18 +1,18 @@
-# data-science-ipython-notebooks
-
-Continually updated Data Science IPython Notebooks.
-
 <br/>
 <p align="center">
   <img src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/README_1200x800.gif">
 </p>
 
+# data-science-ipython-notebooks
+
+Continually updated Data Science IPython Notebooks.
+
+This repo is a collection of IPython Notebooks I reference while working with data.  Although I developed and maintain most notebooks, some notebooks I reference were created by other authors, who are credited within their notebook(s) by providing their names and/or a link to their source.
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/coversmall_alt.png">
   <br/>
 </p>
-
-This repo is a collection of IPython Notebooks I reference while working with data.  Although I developed and maintain most notebooks, some notebooks I reference were created by other authors, who are credited within their notebook(s) by providing their names and/or a link to their source.
 
 ## Index
 
