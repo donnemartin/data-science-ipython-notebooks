@@ -223,6 +223,8 @@ $ cd [downloaded repo directory name]
 $ ipython notebook
 ```
 
+Notebooks tested with Python 2.7.x.
+
 ## credits
 
 * [Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython](http://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1449319793) by Wes McKinney
