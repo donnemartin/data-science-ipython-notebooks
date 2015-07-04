@@ -24,7 +24,7 @@ This repo is a collection of IPython Notebooks I reference while working with da
 * [pandas](#pandas)
 * [matplotlib](#matplotlib)
 * [numpy](#numpy)
-* [scipy](#scipy)
+* [statistical-inference-scipy](#statistical-inference-scipy)
 * [python-data](#python-data)
 * [command lines](#commands)
 * [misc](#misc)
@@ -159,9 +159,13 @@ IPython Notebook(s) demonstrating NumPy functionality.
   <img src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/scipy.png">
 </p>
 
-## scipy
+## statistical-inference-scipy
 
-[Coming Soon] IPython Notebook(s) demonstrating SciPy functionality.
+| Notebook | Description |
+|--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [effect_size](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/scipy/effect_size.ipynb) | Effect size. |
+| [sampling](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/scipy/numpy.ipynb) | Random sampling. |
+| [hypothesis](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/scipy/numpy.ipynb) | Hypothesis testing. |
 
 <br/>
 <p align="center">
