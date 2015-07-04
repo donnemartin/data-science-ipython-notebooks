@@ -21,10 +21,10 @@ This repo is a collection of IPython Notebooks I reference while working with da
 * [amazon web services](#aws)
 * [kaggle-and-business-analyses](#kaggle-and-business-analyses)
 * [scikit-learn](#scikit-learn)
+* [statistical-inference-scipy](#statistical-inference-scipy)
 * [pandas](#pandas)
 * [matplotlib](#matplotlib)
 * [numpy](#numpy)
-* [scipy](#scipy)
 * [python-data](#python-data)
 * [command lines](#commands)
 * [misc](#misc)
@@ -116,6 +116,20 @@ IPython Notebook(s) demonstrating scikit-learn functionality.
 
 <br/>
 <p align="center">
+  <img src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/scipy.png">
+</p>
+
+## statistical-inference-scipy
+
+| Notebook | Description |
+|--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| scipy | SciPy is a collection of mathematical algorithms and convenience functions built on the Numpy extension of Python. It adds significant power to the interactive Python session by providing the user with high-level commands and classes for manipulating and visualizing data. |
+| [effect_size](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/scipy/effect_size.ipynb) | Effect size. |
+| [sampling](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/scipy/numpy.ipynb) | Random sampling. |
+| [hypothesis](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/scipy/numpy.ipynb) | Hypothesis testing. |
+
+<br/>
+<p align="center">
   <img src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/pandas.png">
 </p>
 
@@ -153,15 +167,6 @@ IPython Notebook(s) demonstrating NumPy functionality.
 | Notebook | Description |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [numpy](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/numpy/numpy.ipynb) | Adds Python support for large, multi-dimensional arrays and matrices, along with a large library of high-level mathematical functions to operate on these arrays. |
-
-<br/>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/scipy.png">
-</p>
-
-## scipy
-
-[Coming Soon] IPython Notebook(s) demonstrating SciPy functionality.
 
 <br/>
 <p align="center">
@@ -219,7 +224,7 @@ To view interactive content or to modify elements within the IPython notebooks, 
 
 ```
 $ git clone https://github.com/donnemartin/data-science-ipython-notebooks.git
-$ cd [downloaded repo directory name]
+$ cd data-science-ipython-notebooks
 $ ipython notebook
 ```
 
