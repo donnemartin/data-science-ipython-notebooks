@@ -219,7 +219,7 @@ To view interactive content or to modify elements within the IPython notebooks, 
 
 ```
 $ git clone https://github.com/donnemartin/data-science-ipython-notebooks.git
-$ cd [downloaded repo directory name]
+$ cd data-science-ipython-notebooks
 $ ipython notebook
 ```
 
