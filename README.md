@@ -235,6 +235,7 @@ Notebooks tested with Python 2.7.x.
 * [Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython](http://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1449319793) by Wes McKinney
 * [PyCon 2015 Scikit-learn Tutorial](https://github.com/jakevdp/sklearn_pycon2015) by Jake VanderPlas
 * [Parallel Machine Learning with scikit-learn and IPython](https://github.com/ogrisel/parallel_ml_tutorial) by Olivier Grisel
+* [Statistical Interference Using Computational Methods in Python](https://github.com/AllenDowney/CompStats) by Allen Downey
 * [Yhat blog](http://blog.yhathq.com/) by Yhat
 * [Kaggle](https://www.kaggle.com/) by Kaggle
 * [Spark Docs](https://spark.apache.org/docs/latest/) by Apache Spark
