@@ -218,9 +218,19 @@ IPython Notebook(s) demonstrating miscellaneous functionality.
 
 ## notebook-installation
 
+### anaconda
+
 Anaconda is a free distribution of the Python programming language for large-scale data processing, predictive analytics, and scientific computing that aims to simplify package management and deployment.
 
 Follow instructions to install [Anaconda](http://docs.continuum.io/anaconda/install.html) or the more lightweight [miniconda](http://conda.pydata.org/miniconda.html).
+
+### pip-requirements
+
+If you prefer to use a more lightweight installation procedure than Anaconda, first clone the repo then run the following pip command on the provided requirements.txt file:
+
+    $ pip install -r requirements.txt
+
+### running-notebooks
 
 To view interactive content or to modify elements within the IPython notebooks, you must first clone or download the repository then run the ipython notebook.  More information on IPython Notebooks can be found [here.](http://ipython.org/notebook.html)
 
