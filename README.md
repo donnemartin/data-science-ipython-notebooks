@@ -5,8 +5,6 @@
 
 # data-science-ipython-notebooks
 
-Continually updated Data Science IPython Notebooks.
-
 This repo is a collection of IPython Notebooks I reference while working with data.  Although I developed and maintain most notebooks, some notebooks I reference were created by other authors, who are credited within their notebook(s) by providing their names and/or a link to their source.
 
 For detailed instructions, scripts, and tools to more optimally set up your development environment for data analysis, check out the [dev-setup](https://github.com/donnemartin/dev-setup) repo.
