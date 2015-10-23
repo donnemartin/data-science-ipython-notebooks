@@ -70,7 +70,10 @@ IPython Notebook(s) demonstrating Hadoop MapReduce with mrjob functionality.
 
 IPython Notebook(s) demonstrating Amazon Web Services (AWS) and AWS tools functionality.
 
-Also check out [SAWS](https://github.com/donnemartin/saws): A Supercharged AWS command line interface (CLI).
+Also check out:
+
+* [SAWS](https://github.com/donnemartin/saws): A Supercharged AWS command line interface (CLI).
+* [Awesome AWS](https://github.com/donnemartin/awesome-aws): A curated list of libraries, open source repos, guides, blogs, and other resources.
 
 | Notebook | Description |
 |------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
