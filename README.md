@@ -21,6 +21,7 @@ For detailed instructions, scripts, and tools to more optimally set up your deve
 * [amazon web services](#aws)
 * [kaggle-and-business-analyses](#kaggle-and-business-analyses)
 * [scikit-learn](#scikit-learn)
+* [deep-learning](#deep-learning)
 * [statistical-inference-scipy](#statistical-inference-scipy)
 * [pandas](#pandas)
 * [matplotlib](#matplotlib)
@@ -119,6 +120,19 @@ IPython Notebook(s) demonstrating scikit-learn functionality.
 | [pca](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/scikit-learn/scikit-learn-pca.ipynb) | Principal component analysis. |
 | [gmm](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/scikit-learn/scikit-learn-gmm.ipynb) | Gaussian mixture models. |
 | [validation](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/scikit-learn/scikit-learn-validation.ipynb) | Validation and model selection. |
+
+<br/>
+<p align="center">
+  <img src="http://i.imgur.com/ZhKXrKZ.png">
+</p>
+
+## deep-learning
+
+IPython Notebook(s) demonstrating deep learning functionality.
+
+| Notebook | Description |
+|--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [deep dream](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/deep-dream/dream.ipynb) |  Caffe-based computer vision program which uses a convolutional neural network to find and enhance patterns in images. |
 
 <br/>
 <p align="center">
