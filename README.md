@@ -18,15 +18,15 @@ For detailed instructions, scripts, and tools to more optimally set up your deve
 
 * [spark](#spark)
 * [mapreduce-python](#mapreduce-python)
-* [amazon web services](#aws)
 * [kaggle-and-business-analyses](#kaggle-and-business-analyses)
-* [scikit-learn](#scikit-learn)
 * [deep-learning](#deep-learning)
+* [scikit-learn](#scikit-learn)
 * [statistical-inference-scipy](#statistical-inference-scipy)
 * [pandas](#pandas)
 * [matplotlib](#matplotlib)
 * [numpy](#numpy)
 * [python-data](#python-data)
+* [amazon web services](#aws)
 * [command lines](#commands)
 * [misc](#misc)
 * [notebook-installation](#notebook-installation)
@@ -64,30 +64,6 @@ IPython Notebook(s) demonstrating Hadoop MapReduce with mrjob functionality.
 
 <br/>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/aws.png">
-</p>
-
-## aws
-
-IPython Notebook(s) demonstrating Amazon Web Services (AWS) and AWS tools functionality.
-
-Also check out:
-
-* [SAWS](https://github.com/donnemartin/saws): A Supercharged AWS command line interface (CLI).
-* [Awesome AWS](https://github.com/donnemartin/awesome-aws): A curated list of libraries, open source repos, guides, blogs, and other resources.
-
-| Notebook | Description |
-|------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [boto](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/aws/aws.ipynb#Boto) | Official AWS SDK for Python. |
-| [s3cmd](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/aws/aws.ipynb#s3cmd) | Interacts with S3 through the command line. |
-| [s3distcp](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/aws/aws.ipynb#s3distcp) | Combines smaller files and aggregates them together by taking in a pattern and target file.  S3DistCp can also be used to transfer large volumes of data from S3 to your Hadoop cluster. |
-| [s3-parallel-put](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/aws/aws.ipynb#s3-parallel-put) | Uploads multiple files to S3 in parallel. |
-| [redshift](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/aws/aws.ipynb#redshift) | Acts as a fast data warehouse built on top of technology from massive parallel processing (MPP). |
-| [kinesis](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/aws/aws.ipynb#kinesis) | Streams data in real time with the ability to process thousands of data streams per second. |
-| [lambda](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/aws/aws.ipynb#lambda) | Runs code in response to events, automatically managing compute resources. |
-
-<br/>
-<p align="center">
   <img src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/kaggle.png">
 </p>
 
@@ -99,6 +75,25 @@ IPython Notebook(s) used in [kaggle](https://www.kaggle.com/) competitions and b
 |-------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
 | [titanic](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/kaggle/titanic.ipynb) | Predicts survival on the Titanic.  Demonstrates data cleaning, exploratory data analysis, and machine learning. |
 | [churn-analysis](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/analyses/churn.ipynb) | Predicts customer churn.  Exercises logistic regression, gradient boosting classifers, support vector machines, random forests, and k-nearest-neighbors.  Discussion of confusion matrices, ROC plots, feature importances, prediction probabilities, and calibration/descrimination.|
+
+<br/>
+<p align="center">
+  <img src="http://i.imgur.com/ZhKXrKZ.png">
+</p>
+
+## deep-learning
+
+IPython Notebook(s) demonstrating deep learning functionality.
+
+| Notebook | Description |
+|--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [ts-not-mnist](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/tensor-flow-exercises/1_notmnist.ipynb) | Learn simple data curation by creating a pickle with formatted datasets for training, development and testing in TensorFlow. |
+| [ts-fully-connected](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/tensor-flow-exercises/2_fullyconnected.ipynb) |  Progressively train deeper and more accurate models using logistic regression and neural networks in TensorFlow. |
+| [ts-regularization](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/tensor-flow-exercises/3_regularization.ipynb) |  Explore regularization techniques by training fully connected networks to classify notMNIST characters in TensorFlow. |
+| [ts-convolutions](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/tensor-flow-exercises/4_convolutions.ipynb) |  Create convolutional neural networks in TensorFlow. |
+| [ts-word2vec](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/tensor-flow-exercises/5_word2vec.ipynb) |  Train a skip-gram model over Text8 data in TensorFlow. |
+| [ts-lstm](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/tensor-flow-exercises/6_lstm.ipynb) |  Train a LSTM character model over Text8 data in TensorFlow. |
+| [deep dream](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/deep-dream/dream.ipynb) |  Caffe-based computer vision program which uses a convolutional neural network to find and enhance patterns in images. |
 
 <br/>
 <p align="center">
@@ -120,25 +115,6 @@ IPython Notebook(s) demonstrating scikit-learn functionality.
 | [pca](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/scikit-learn/scikit-learn-pca.ipynb) | Principal component analysis. |
 | [gmm](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/scikit-learn/scikit-learn-gmm.ipynb) | Gaussian mixture models. |
 | [validation](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/scikit-learn/scikit-learn-validation.ipynb) | Validation and model selection. |
-
-<br/>
-<p align="center">
-  <img src="http://i.imgur.com/ZhKXrKZ.png">
-</p>
-
-## deep-learning
-
-IPython Notebook(s) demonstrating deep learning functionality.
-
-| Notebook | Description |
-|--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [deep dream](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/deep-dream/dream.ipynb) |  Caffe-based computer vision program which uses a convolutional neural network to find and enhance patterns in images. |
-| [ts-not-mnist](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/tensor-flow-exercises/1_notmnist.ipynb) | Learn simple data curation by creating a pickle with formatted datasets for training, development and testing in TensorFlow. |
-| [ts-fully-connected](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/tensor-flow-exercises/2_fullyconnected.ipynb) |  Progressively train deeper and more accurate models using logistic regression and neural networks in TensorFlow. |
-| [ts-regularization](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/tensor-flow-exercises/3_regularization.ipynb) |  Explore regularization techniques by training fully connected networks to classify notMNIST characters in TensorFlow. |
-| [ts-convolutions](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/tensor-flow-exercises/4_convolutions.ipynb) |  Create convolutional neural networks in TensorFlow. |
-| [ts-word2vec](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/tensor-flow-exercises/5_word2vec.ipynb) |  Train a skip-gram model over Text8 data in TensorFlow. |
-| [ts-lstm](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/tensor-flow-exercises/6_lstm.ipynb) |  Train a LSTM character model over Text8 data in TensorFlow. |
 
 <br/>
 <p align="center">
@@ -212,6 +188,30 @@ IPython Notebook(s) demonstrating Python functionality geared towards data analy
 | [logging](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/python-data/logs.ipynb) | Logging with RotatingFileHandler and TimedRotatingFileHandler. |
 | [pdb](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/python-data/pdb.ipynb) | Interactive source code debugger. |
 | [unit tests](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/python-data/unit_tests.ipynb) | Nose unit tests. |
+
+<br/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/aws.png">
+</p>
+
+## aws
+
+IPython Notebook(s) demonstrating Amazon Web Services (AWS) and AWS tools functionality.
+
+Also check out:
+
+* [SAWS](https://github.com/donnemartin/saws): A Supercharged AWS command line interface (CLI).
+* [Awesome AWS](https://github.com/donnemartin/awesome-aws): A curated list of libraries, open source repos, guides, blogs, and other resources.
+
+| Notebook | Description |
+|------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [boto](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/aws/aws.ipynb#Boto) | Official AWS SDK for Python. |
+| [s3cmd](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/aws/aws.ipynb#s3cmd) | Interacts with S3 through the command line. |
+| [s3distcp](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/aws/aws.ipynb#s3distcp) | Combines smaller files and aggregates them together by taking in a pattern and target file.  S3DistCp can also be used to transfer large volumes of data from S3 to your Hadoop cluster. |
+| [s3-parallel-put](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/aws/aws.ipynb#s3-parallel-put) | Uploads multiple files to S3 in parallel. |
+| [redshift](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/aws/aws.ipynb#redshift) | Acts as a fast data warehouse built on top of technology from massive parallel processing (MPP). |
+| [kinesis](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/aws/aws.ipynb#kinesis) | Streams data in real time with the ability to process thousands of data streams per second. |
+| [lambda](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/aws/aws.ipynb#lambda) | Runs code in response to events, automatically managing compute resources. |
 
 <br/>
 <p align="center">
