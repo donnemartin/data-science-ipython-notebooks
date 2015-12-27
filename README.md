@@ -137,6 +137,7 @@ IPython Notebook(s) demonstrating deep learning functionality.
 | [ts-fully-connected](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/tensor-flow-exercises/2_fullyconnected.ipynb) |  Progressively train deeper and more accurate models using logistic regression and neural networks in TensorFlow. |
 | [ts-regularization](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/tensor-flow-exercises/3_regularization.ipynb) |  Explore regularization techniques by training fully connected networks to classify notMNIST characters in TensorFlow. |
 | [ts-convolutions](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/tensor-flow-exercises/4_convolutions.ipynb) |  Create convolutional neural networks in TensorFlow. |
+| [ts-word2vec](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/tensor-flow-exercises/5_word2vec.ipynb) |  Train a skip-gram model over Text8 data in TensorFlow. |
 
 <br/>
 <p align="center">
