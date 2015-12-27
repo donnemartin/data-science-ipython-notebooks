@@ -97,6 +97,7 @@ IPython Notebook(s) demonstrating deep learning functionality.
 | [theano-scan](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/theano-tutorial/scan_tutorial/scan_tutorial.ipynb) |  Learn scans, a mechanism to perform loops in a Theano graph. |
 | [theano-logistic](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/theano-tutorial/intro_theano/logistic_regression.ipynb) |  Implement logistic regression in Theano. |
 | [theano-rnn](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/theano-tutorial/rnn_tutorial/simple_rnn.ipynb) |  Implement recurrent neural networks in Theano. |
+| [theano-mlp](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/theano-tutorial/theano_mlp/theano_mlp.ipynb) |  Implement multilayer perceptrons in Theano. |
 | [deep-dream](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/deep-dream/dream.ipynb) |  Caffe-based computer vision program which uses a convolutional neural network to find and enhance patterns in images. |
 
 <br/>
