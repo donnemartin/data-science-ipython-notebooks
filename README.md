@@ -85,20 +85,42 @@ IPython Notebook(s) used in [kaggle](https://www.kaggle.com/) competitions and b
 
 IPython Notebook(s) demonstrating deep learning functionality.
 
+<br/>
+<p align="center">
+  <img src="https://avatars0.githubusercontent.com/u/15658638?v=3&s=100">
+</p>
+
+### tensor-flow-exercises
+
 | Notebook | Description |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [tsf-not-mnist](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/tensor-flow-exercises/1_notmnist.ipynb) | Learn simple data curation by creating a pickle with formatted datasets for training, development and testing in TensorFlow. |
-| [tsf-fully-connected](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/tensor-flow-exercises/2_fullyconnected.ipynb) |  Progressively train deeper and more accurate models using logistic regression and neural networks in TensorFlow. |
-| [tsf-regularization](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/tensor-flow-exercises/3_regularization.ipynb) |  Explore regularization techniques by training fully connected networks to classify notMNIST characters in TensorFlow. |
-| [tsf-convolutions](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/tensor-flow-exercises/4_convolutions.ipynb) |  Create convolutional neural networks in TensorFlow. |
-| [tsf-word2vec](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/tensor-flow-exercises/5_word2vec.ipynb) |  Train a skip-gram model over Text8 data in TensorFlow. |
-| [tsf-lstm](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/tensor-flow-exercises/6_lstm.ipynb) |  Train a LSTM character model over Text8 data in TensorFlow. |
-| [theano-intro](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/theano-tutorial/intro_theano/intro_theano.ipynb) |  Intro to Theano, which allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently. It can use GPUs and perform efficient symbolic differentiation. |
-| [theano-scan](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/theano-tutorial/scan_tutorial/scan_tutorial.ipynb) |  Learn scans, a mechanism to perform loops in a Theano graph. |
-| [theano-logistic](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/theano-tutorial/intro_theano/logistic_regression.ipynb) |  Implement logistic regression in Theano. |
-| [theano-rnn](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/theano-tutorial/rnn_tutorial/simple_rnn.ipynb) |  Implement recurrent neural networks in Theano. |
-| [theano-mlp](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/theano-tutorial/theano_mlp/theano_mlp.ipynb) |  Implement multilayer perceptrons in Theano. |
-| [deep-dream](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/deep-dream/dream.ipynb) |  Caffe-based computer vision program which uses a convolutional neural network to find and enhance patterns in images. |
+| [tsf-fully-connected](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/tensor-flow-exercises/2_fullyconnected.ipynb) | Progressively train deeper and more accurate models using logistic regression and neural networks in TensorFlow. |
+| [tsf-regularization](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/tensor-flow-exercises/3_regularization.ipynb) | Explore regularization techniques by training fully connected networks to classify notMNIST characters in TensorFlow. |
+| [tsf-convolutions](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/tensor-flow-exercises/4_convolutions.ipynb) | Create convolutional neural networks in TensorFlow. |
+| [tsf-word2vec](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/tensor-flow-exercises/5_word2vec.ipynb) | Train a skip-gram model over Text8 data in TensorFlow. |
+| [tsf-lstm](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/tensor-flow-exercises/6_lstm.ipynb) | Train a LSTM character model over Text8 data in TensorFlow. |
+
+<br/>
+<p align="center">
+  <img src="http://www.deeplearning.net/software/theano/_static/theano_logo_allblue_200x46.png">
+</p>
+
+### theano-tutorials
+
+| Notebook | Description |
+|--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [theano-intro](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/theano-tutorial/intro_theano/intro_theano.ipynb) | Intro to Theano, which allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently. It can use GPUs and perform efficient symbolic differentiation. |
+| [theano-scan](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/theano-tutorial/scan_tutorial/scan_tutorial.ipynb) | Learn scans, a mechanism to perform loops in a Theano graph. |
+| [theano-logistic](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/theano-tutorial/intro_theano/logistic_regression.ipynb) | Implement logistic regression in Theano. |
+| [theano-rnn](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/theano-tutorial/rnn_tutorial/simple_rnn.ipynb) | Implement recurrent neural networks in Theano. |
+| [theano-mlp](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/theano-tutorial/theano_mlp/theano_mlp.ipynb) | Implement multilayer perceptrons in Theano. |
+
+### deep-learning-misc
+
+| Notebook | Description |
+|--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [deep-dream](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/deep-dream/dream.ipynb) | Caffe-based computer vision program which uses a convolutional neural network to find and enhance patterns in images. |
 
 <br/>
 <p align="center">
