@@ -90,6 +90,12 @@ IPython Notebook(s) demonstrating deep learning functionality.
   <img src="https://avatars0.githubusercontent.com/u/15658638?v=3&s=100">
 </p>
 
+### tensor-flow-tutorials
+
+| Notebook | Description |
+|--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [tsf-basics](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/tensor-flow-examples/1_intro/basic_operations.ipynb) | Learn basic operations in TensorFlow, a library for various kinds of perceptual and language understanding tasks from Google. |
+
 ### tensor-flow-exercises
 
 | Notebook | Description |
