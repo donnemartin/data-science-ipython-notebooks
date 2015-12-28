@@ -317,10 +317,10 @@ Notebooks tested with Python 2.7.x.
 * [PyCon 2015 Scikit-learn Tutorial](https://github.com/jakevdp/sklearn_pycon2015) by Jake VanderPlas
 * [Parallel Machine Learning with scikit-learn and IPython](https://github.com/ogrisel/parallel_ml_tutorial) by Olivier Grisel
 * [Statistical Interference Using Computational Methods in Python](https://github.com/AllenDowney/CompStats) by Allen Downey
-* [Yhat Blog](http://blog.yhathq.com/) by Yhat
-* [Kaggle](https://www.kaggle.com/) by Kaggle
-* [Spark Docs](https://spark.apache.org/docs/latest/) by Apache Spark
-* [AWS Docs](http://aws.amazon.com/documentation/) by Amazon Web Services
+* [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples) by Aymeric Damien
+* [Summer School 2015](https://github.com/mila-udem/summerschool2015) by mila-udem
+* [Kaggle](https://www.kaggle.com/)
+* [Yhat Blog](http://blog.yhathq.com/)
 
 ## contributing
 
