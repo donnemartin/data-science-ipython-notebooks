@@ -99,6 +99,7 @@ IPython Notebook(s) demonstrating deep learning functionality.
 | [tsf-logistic](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/tensor-flow-examples/2_basic_classifiers/logistic_regression.ipynb) | Implement logistic regression in TensorFlow. |
 | [tsf-nn](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/tensor-flow-examples/2_basic_classifiers/nearest_neighbor.ipynb) | Implement nearest neighboars in TensorFlow. |
 | [tsf-alex](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/tensor-flow-examples/3_neural_networks/alexnet.ipynb) | Implement AlexNet in TensorFlow. |
+| [tsf-cnn](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/tensor-flow-examples/3_neural_networks/convolutional_network.ipynb) | Implement convolutional neural networks in TensorFlow. |
 
 ### tensor-flow-exercises
 
