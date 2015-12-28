@@ -101,6 +101,7 @@ IPython Notebook(s) demonstrating deep learning functionality.
 | [tsf-alex](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/tensor-flow-examples/3_neural_networks/alexnet.ipynb) | Implement AlexNet in TensorFlow. |
 | [tsf-cnn](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/tensor-flow-examples/3_neural_networks/convolutional_network.ipynb) | Implement convolutional neural networks in TensorFlow. |
 | [tsf-mlp](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/tensor-flow-examples/3_neural_networks/multilayer_perceptron.ipynb) | Implement multilayer perceptrons in TensorFlow. |
+| [tsf-rnn](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/tensor-flow-examples/3_neural_networks/recurrent_network.ipynb) | Implement recurrent neural networks in TensorFlow. |
 
 ### tensor-flow-exercises
 
