@@ -12,9 +12,6 @@
 
 ## Index
 
-* [spark](#spark)
-* [mapreduce-python](#mapreduce-python)
-* [kaggle-and-business-analyses](#kaggle-and-business-analyses)
 * [deep-learning](#deep-learning)
 * [scikit-learn](#scikit-learn)
 * [statistical-inference-scipy](#statistical-inference-scipy)
@@ -22,6 +19,9 @@
 * [matplotlib](#matplotlib)
 * [numpy](#numpy)
 * [python-data](#python-data)
+* [kaggle-and-business-analyses](#kaggle-and-business-analyses)
+* [spark](#spark)
+* [mapreduce-python](#mapreduce-python)
 * [amazon web services](#aws)
 * [command lines](#commands)
 * [misc](#misc)
@@ -30,47 +30,6 @@
 * [contributing](#contributing)
 * [contact-info](#contact-info)
 * [license](#license)
-
-<br/>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/spark.png">
-</p>
-
-## spark
-
-IPython Notebook(s) demonstrating spark and HDFS functionality.
-
-| Notebook | Description |
-|--------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
-| [spark](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/spark/spark.ipynb) | In-memory cluster computing framework, up to 100 times faster for certain applications and is well suited for machine learning algorithms. |
-| [hdfs](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/spark/hdfs.ipynb) | Reliably stores very large files across machines in a large cluster. |
-
-<br/>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/mrjob.png">
-</p>
-
-## mapreduce-python
-
-IPython Notebook(s) demonstrating Hadoop MapReduce with mrjob functionality.
-
-| Notebook | Description |
-|--------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
-| [mapreduce-python](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/mapreduce/mapreduce-python.ipynb) | Runs MapReduce jobs in Python, executing jobs locally or on Hadoop clusters. Demonstrates Hadoop Streaming in Python code with unit test and [mrjob](https://github.com/Yelp/mrjob) config file to analyze Amazon S3 bucket logs on Elastic MapReduce.  [Disco](https://github.com/discoproject/disco/) is another python-based alternative.|
-
-<br/>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/kaggle.png">
-</p>
-
-## kaggle-and-business-analyses
-
-IPython Notebook(s) used in [kaggle](https://www.kaggle.com/) competitions and business analyses.
-
-| Notebook | Description |
-|-------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
-| [titanic](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/kaggle/titanic.ipynb) | Predicts survival on the Titanic.  Demonstrates data cleaning, exploratory data analysis, and machine learning. |
-| [churn-analysis](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/analyses/churn.ipynb) | Predicts customer churn.  Exercises logistic regression, gradient boosting classifers, support vector machines, random forests, and k-nearest-neighbors.  Discussion of confusion matrices, ROC plots, feature importances, prediction probabilities, and calibration/descrimination.|
 
 <br/>
 <p align="center">
@@ -229,6 +188,47 @@ IPython Notebook(s) demonstrating Python functionality geared towards data analy
 | [logging](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/python-data/logs.ipynb) | Learn about Python logging with RotatingFileHandler and TimedRotatingFileHandler. |
 | [pdb](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/python-data/pdb.ipynb) | Learn how to debug in Python with the interactive source code debugger. |
 | [unit tests](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/python-data/unit_tests.ipynb) | Learn how to test in Python with Nose unit tests. |
+
+<br/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/kaggle.png">
+</p>
+
+## kaggle-and-business-analyses
+
+IPython Notebook(s) used in [kaggle](https://www.kaggle.com/) competitions and business analyses.
+
+| Notebook | Description |
+|-------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
+| [titanic](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/kaggle/titanic.ipynb) | Predicts survival on the Titanic.  Demonstrates data cleaning, exploratory data analysis, and machine learning. |
+| [churn-analysis](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/analyses/churn.ipynb) | Predicts customer churn.  Exercises logistic regression, gradient boosting classifers, support vector machines, random forests, and k-nearest-neighbors.  Discussion of confusion matrices, ROC plots, feature importances, prediction probabilities, and calibration/descrimination.|
+
+<br/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/spark.png">
+</p>
+
+## spark
+
+IPython Notebook(s) demonstrating spark and HDFS functionality.
+
+| Notebook | Description |
+|--------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
+| [spark](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/spark/spark.ipynb) | In-memory cluster computing framework, up to 100 times faster for certain applications and is well suited for machine learning algorithms. |
+| [hdfs](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/spark/hdfs.ipynb) | Reliably stores very large files across machines in a large cluster. |
+
+<br/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/mrjob.png">
+</p>
+
+## mapreduce-python
+
+IPython Notebook(s) demonstrating Hadoop MapReduce with mrjob functionality.
+
+| Notebook | Description |
+|--------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
+| [mapreduce-python](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/mapreduce/mapreduce-python.ipynb) | Runs MapReduce jobs in Python, executing jobs locally or on Hadoop clusters. Demonstrates Hadoop Streaming in Python code with unit test and [mrjob](https://github.com/Yelp/mrjob) config file to analyze Amazon S3 bucket logs on Elastic MapReduce.  [Disco](https://github.com/discoproject/disco/) is another python-based alternative.|
 
 <br/>
 <p align="center">
