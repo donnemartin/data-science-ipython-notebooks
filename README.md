@@ -3,16 +3,12 @@
   <img src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/README_1200x800.gif">
 </p>
 
-# data-science-ipython-notebooks
-
-This repo is a collection of IPython Notebooks I reference while working with data.  Although I developed and maintain many notebooks, other notebooks I reference were created by various authors, who are credited within their notebook(s) by providing their names and/or a link to their source.
-
-For detailed instructions, scripts, and tools to more optimally set up your development environment for data analysis, check out the [dev-setup](https://github.com/donnemartin/dev-setup) repo.
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/coversmall_alt.png">
   <br/>
 </p>
+
+# data-science-ipython-notebooks
 
 ## Index
 
@@ -298,6 +294,10 @@ Follow instructions to install [Anaconda](http://docs.continuum.io/anaconda/inst
 If you prefer to use a more lightweight installation procedure than Anaconda, first clone the repo then run the following pip command on the provided requirements.txt file:
 
     $ pip install -r requirements.txt
+
+### dev-setup
+
+For detailed instructions, scripts, and tools to set up your development environment for data analysis, check out the [dev-setup](https://github.com/donnemartin/dev-setup) repo.
 
 ### running-notebooks
 
