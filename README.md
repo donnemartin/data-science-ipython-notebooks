@@ -234,18 +234,6 @@ IPython Notebook(s) demonstrating Hadoop MapReduce with mrjob functionality.
 <br/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/algorithmia.png">
-</p>
-
-## algorithmia
-
-IPython Notebook(s) demonstrating using Machine Learning, Computer Vision and NLP algorithms.
-
-| Notebook | Description |
-|------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Simple Usage](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/algorithmia/Algorithmia.ipynb) | Algorithmia is a marketplace for algorithms. This notebook showcases 4 different algorithms: Face Detection, Content Summarizer, Latent Dirichlet Allocation and Optical Character Recognition. |
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/aws.png">
 </p>
 
@@ -295,6 +283,7 @@ IPython Notebook(s) demonstrating miscellaneous functionality.
 | Notebook | Description |
 |--------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [regex](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/misc/regex.ipynb) | Regular expression cheat sheet useful in data wrangling.|
+[Algorithmia Examples](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/algorithmia/Algorithmia.ipynb) | Algorithmia is a marketplace for algorithms. This notebook showcases 4 different algorithms: Face Detection, Content Summarizer, Latent Dirichlet Allocation and Optical Character Recognition.|
 
 ## notebook-installation
 
