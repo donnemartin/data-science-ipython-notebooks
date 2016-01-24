@@ -23,7 +23,6 @@
 * [spark](#spark)
 * [mapreduce-python](#mapreduce-python)
 * [amazon web services](#aws)
-* [algorithmia](#algorithmia)
 * [command lines](#commands)
 * [misc](#misc)
 * [notebook-installation](#notebook-installation)
@@ -283,7 +282,7 @@ IPython Notebook(s) demonstrating miscellaneous functionality.
 | Notebook | Description |
 |--------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [regex](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/misc/regex.ipynb) | Regular expression cheat sheet useful in data wrangling.|
-[Algorithmia Examples](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/algorithmia/Algorithmia.ipynb) | Algorithmia is a marketplace for algorithms. This notebook showcases 4 different algorithms: Face Detection, Content Summarizer, Latent Dirichlet Allocation and Optical Character Recognition.|
+[algorithmia](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/misc/Algorithmia.ipynb) | Algorithmia is a marketplace for algorithms. This notebook showcases 4 different algorithms: Face Detection, Content Summarizer, Latent Dirichlet Allocation and Optical Character Recognition.|
 
 ## notebook-installation
 
