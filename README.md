@@ -156,6 +156,7 @@ IPython Notebook(s) demonstrating pandas functionality.
 | Notebook | Description |
 |--------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [pandas](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/pandas/pandas.ipynb) | Software library written for data manipulation and analysis in Python. Offers data structures and operations for manipulating numerical tables and time series. |
+| [github-data-wrangling](https://github.com/donnemartin/viz/blob/master/githubstats/data_wrangling.ipynb) | Demonstrates loading, cleaning, merging, and feature engineering of GitHub data from the [`Viz`](https://github.com/donnemartin/viz) repo. |
 
 <br/>
 <p align="center">
