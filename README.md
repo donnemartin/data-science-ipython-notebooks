@@ -96,6 +96,8 @@ IPython Notebook(s) demonstrating deep learning functionality.
 | [tsf-gviz](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/tensor-flow-examples/notebooks/5_ui/graph_visualization.ipynb) | Learn about graph visualization in TensorFlow. |
 | [tsf-lviz](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/tensor-flow-examples/notebooks/5_ui/loss_visualization.ipynb) | Learn about loss visualization in TensorFlow. |
 
+Also check out another set of TensorFlow tutorials [here](https://github.com/pkmital/tensorflow_tutorials).
+
 ### tensor-flow-exercises
 
 | Notebook | Description |
@@ -323,6 +325,7 @@ Notebooks tested with Python 2.7.x.
 * [Parallel Machine Learning with scikit-learn and IPython](https://github.com/ogrisel/parallel_ml_tutorial) by Olivier Grisel
 * [Statistical Interference Using Computational Methods in Python](https://github.com/AllenDowney/CompStats) by Allen Downey
 * [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples) by Aymeric Damien
+* [TensorFlow Tutorials](https://github.com/pkmital/tensorflow_tutorials) by Parag K Mital
 * [Summer School 2015](https://github.com/mila-udem/summerschool2015) by mila-udem
 * [Kaggle](https://www.kaggle.com/)
 * [Yhat Blog](http://blog.yhathq.com/)
