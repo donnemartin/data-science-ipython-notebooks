@@ -82,6 +82,11 @@ IPython Notebook(s) demonstrating deep learning functionality.
 
 ### tensor-flow-tutorials
 
+Additional TensorFlow tutorials:
+
+* [pkmital/tensorflow_tutorials](https://github.com/pkmital/tensorflow_tutorials)
+* [nlintz/TensorFlow-Tutorials](https://github.com/nlintz/TensorFlow-Tutorials)
+
 | Notebook | Description |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [tsf-basics](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/tensor-flow-examples/notebooks/1_intro/basic_operations.ipynb) | Learn basic operations in TensorFlow, a library for various kinds of perceptual and language understanding tasks from Google. |
@@ -95,8 +100,6 @@ IPython Notebook(s) demonstrating deep learning functionality.
 | [tsf-gpu](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/tensor-flow-examples/notebooks/4_multi_gpu/multigpu_basics.ipynb) | Learn about basic multi-GPU computation in TensorFlow. |
 | [tsf-gviz](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/tensor-flow-examples/notebooks/5_ui/graph_visualization.ipynb) | Learn about graph visualization in TensorFlow. |
 | [tsf-lviz](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/tensor-flow-examples/notebooks/5_ui/loss_visualization.ipynb) | Learn about loss visualization in TensorFlow. |
-
-Also check out another set of TensorFlow tutorials [here](https://github.com/pkmital/tensorflow_tutorials).
 
 ### tensor-flow-exercises
 
@@ -326,6 +329,7 @@ Notebooks tested with Python 2.7.x.
 * [Statistical Interference Using Computational Methods in Python](https://github.com/AllenDowney/CompStats) by Allen Downey
 * [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples) by Aymeric Damien
 * [TensorFlow Tutorials](https://github.com/pkmital/tensorflow_tutorials) by Parag K Mital
+* [TensorFlow Tutorials](https://github.com/nlintz/TensorFlow-Tutorials) by Nathan Lintz
 * [Summer School 2015](https://github.com/mila-udem/summerschool2015) by mila-udem
 * [Kaggle](https://www.kaggle.com/)
 * [Yhat Blog](http://blog.yhat.com/)
