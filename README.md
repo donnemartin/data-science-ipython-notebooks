@@ -94,6 +94,11 @@ These notebooks are derived from [learningtensorflow](http://learningtensorflow.
 
 ### tensor-flow-tutorials
 
+Additional TensorFlow tutorials:
+
+* [pkmital/tensorflow_tutorials](https://github.com/pkmital/tensorflow_tutorials)
+* [nlintz/TensorFlow-Tutorials](https://github.com/nlintz/TensorFlow-Tutorials)
+
 | Notebook | Description |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [tsf-basics](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/tensor-flow-examples/notebooks/1_intro/basic_operations.ipynb) | Learn basic operations in TensorFlow, a library for various kinds of perceptual and language understanding tasks from Google. |
@@ -107,8 +112,6 @@ These notebooks are derived from [learningtensorflow](http://learningtensorflow.
 | [tsf-gpu](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/tensor-flow-examples/notebooks/4_multi_gpu/multigpu_basics.ipynb) | Learn about basic multi-GPU computation in TensorFlow. |
 | [tsf-gviz](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/tensor-flow-examples/notebooks/5_ui/graph_visualization.ipynb) | Learn about graph visualization in TensorFlow. |
 | [tsf-lviz](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/tensor-flow-examples/notebooks/5_ui/loss_visualization.ipynb) | Learn about loss visualization in TensorFlow. |
-
-Also check out another set of TensorFlow tutorials [here](https://github.com/pkmital/tensorflow_tutorials).
 
 ### tensor-flow-exercises
 
@@ -170,7 +173,7 @@ IPython Notebook(s) demonstrating pandas functionality.
 | Notebook | Description |
 |--------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [pandas](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/pandas/pandas.ipynb) | Software library written for data manipulation and analysis in Python. Offers data structures and operations for manipulating numerical tables and time series. |
-| [github-data-wrangling](https://github.com/donnemartin/viz/blob/master/githubstats/data_wrangling.ipynb) | Demonstrates loading, cleaning, merging, and feature engineering of GitHub data from the [`Viz`](https://github.com/donnemartin/viz) repo. |
+| [github-data-wrangling](https://github.com/donnemartin/viz/blob/master/githubstats/data_wrangling.ipynb) | Learn how to load, clean, merge, and feature engineer by analyzing GitHub data from the [`Viz`](https://github.com/donnemartin/viz) repo. |
 
 <br/>
 <p align="center">
@@ -184,7 +187,7 @@ IPython Notebook(s) demonstrating matplotlib functionality.
 | Notebook | Description |
 |-----------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [matplotlib](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/matplotlib/matplotlib.ipynb) | Python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms. |
-| [matplotlib-applied](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/matplotlib/matplotlib-applied.ipynb) | Matplotlib visualizations appied to Kaggle competitions for exploratory data analysis.  Examples of bar plots, histograms, subplot2grid, normalized plots, scatter plots, subplots, and kernel density estimation plots. |
+| [matplotlib-applied](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/matplotlib/matplotlib-applied.ipynb) | Apply matplotlib visualizations to Kaggle competitions for exploratory data analysis.  Learn how to create bar plots, histograms, subplot2grid, normalized plots, scatter plots, subplots, and kernel density estimation plots. |
 
 <br/>
 <p align="center">
@@ -338,6 +341,7 @@ Notebooks tested with Python 2.7.x.
 * [Statistical Interference Using Computational Methods in Python](https://github.com/AllenDowney/CompStats) by Allen Downey
 * [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples) by Aymeric Damien
 * [TensorFlow Tutorials](https://github.com/pkmital/tensorflow_tutorials) by Parag K Mital
+* [TensorFlow Tutorials](https://github.com/nlintz/TensorFlow-Tutorials) by Nathan Lintz
 * [Summer School 2015](https://github.com/mila-udem/summerschool2015) by mila-udem
 * [Kaggle](https://www.kaggle.com/)
 * [Yhat Blog](http://blog.yhat.com/)
