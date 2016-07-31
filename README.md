@@ -12,8 +12,8 @@
 
 ## Index
 
-* [scikit-learn](#scikit-learn)
 * [kaggle-and-business-analyses](#kaggle-and-business-analyses)
+* [scikit-learn](#scikit-learn)
 * [deep-learning](#deep-learning)
 * [statistical-inference-scipy](#statistical-inference-scipy)
 * [pandas](#pandas)
@@ -30,6 +30,20 @@
 * [contributing](#contributing)
 * [contact-info](#contact-info)
 * [license](#license)
+
+<br/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/kaggle.png">
+</p>
+
+## kaggle-and-business-analyses
+
+IPython Notebook(s) used in [kaggle](https://www.kaggle.com/) competitions and business analyses.
+
+| Notebook | Description |
+|-------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
+| [titanic](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/kaggle/titanic.ipynb) | Predict survival on the Titanic.  Learn data cleaning, exploratory data analysis, and machine learning. |
+| [churn-analysis](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/analyses/churn.ipynb) | Predict customer churn.  Exercise logistic regression, gradient boosting classifers, support vector machines, random forests, and k-nearest-neighbors.  Includes discussions of confusion matrices, ROC plots, feature importances, prediction probabilities, and calibration/descrimination.|
 
 <br/>
 <p align="center">
@@ -51,20 +65,6 @@ IPython Notebook(s) demonstrating scikit-learn functionality.
 | [pca](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/scikit-learn/scikit-learn-pca.ipynb) | Implement principal component analysis in scikit-learn. |
 | [gmm](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/scikit-learn/scikit-learn-gmm.ipynb) | Implement Gaussian mixture models in scikit-learn. |
 | [validation](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/scikit-learn/scikit-learn-validation.ipynb) | Implement validation and model selection in scikit-learn. |
-
-<br/>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/kaggle.png">
-</p>
-
-## kaggle-and-business-analyses
-
-IPython Notebook(s) used in [kaggle](https://www.kaggle.com/) competitions and business analyses.
-
-| Notebook | Description |
-|-------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
-| [titanic](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/kaggle/titanic.ipynb) | Predict survival on the Titanic.  Learn data cleaning, exploratory data analysis, and machine learning. |
-| [churn-analysis](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/analyses/churn.ipynb) | Predict customer churn.  Exercise logistic regression, gradient boosting classifers, support vector machines, random forests, and k-nearest-neighbors.  Includes discussions of confusion matrices, ROC plots, feature importances, prediction probabilities, and calibration/descrimination.|
 
 <br/>
 <p align="center">
