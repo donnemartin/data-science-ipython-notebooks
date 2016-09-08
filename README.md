@@ -313,11 +313,13 @@ For detailed instructions, scripts, and tools to set up your development environ
 
 To view interactive content or to modify elements within the IPython notebooks, you must first clone or download the repository then run the ipython notebook.  More information on IPython Notebooks can be found [here.](http://ipython.org/notebook.html)
 
-```
-$ git clone https://github.com/donnemartin/data-science-ipython-notebooks.git
-$ cd data-science-ipython-notebooks
-$ ipython notebook
-```
+    $ git clone https://github.com/donnemartin/data-science-ipython-notebooks.git
+    $ cd data-science-ipython-notebooks
+    $ ipython notebook
+
+If you have Jupyter Notebook 4+, run the following instead of `ipython notebook`:
+
+    $ jupyter notebook
 
 Notebooks tested with Python 2.7.x.
 
