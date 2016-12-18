@@ -87,6 +87,7 @@ Additional TensorFlow tutorials:
 * [pkmital/tensorflow_tutorials](https://github.com/pkmital/tensorflow_tutorials)
 * [nlintz/TensorFlow-Tutorials](https://github.com/nlintz/TensorFlow-Tutorials)
 * [alrojo/tensorflow-tutorial](https://github.com/alrojo/tensorflow-tutorial)
+* [BinRoot/TensorFlow-Book](https://github.com/BinRoot/TensorFlow-Book)
 
 | Notebook | Description |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -334,6 +335,7 @@ Notebooks tested with Python 2.7.x.
 * [TensorFlow Tutorials](https://github.com/pkmital/tensorflow_tutorials) by Parag K Mital
 * [TensorFlow Tutorials](https://github.com/nlintz/TensorFlow-Tutorials) by Nathan Lintz
 * [TensorFlow Tutorials](https://github.com/alrojo/tensorflow-tutorial) by Alexander R Johansen
+* [TensorFlow Book](https://github.com/BinRoot/TensorFlow-Book) by Nishant Shukla
 * [Summer School 2015](https://github.com/mila-udem/summerschool2015) by mila-udem
 * [Kaggle](https://www.kaggle.com/)
 * [Yhat Blog](http://blog.yhat.com/)
