@@ -129,6 +129,29 @@ Additional TensorFlow tutorials:
 | [theano-rnn](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/theano-tutorial/rnn_tutorial/simple_rnn.ipynb) | Implement recurrent neural networks in Theano. |
 | [theano-mlp](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/theano-tutorial/theano_mlp/theano_mlp.ipynb) | Implement multilayer perceptrons in Theano. |
 
+<br/>
+<p align="center">
+  <img src="http://i.imgur.com/L45Q8c2.jpg">
+</p>
+
+### keras-tutorials
+
+| Notebook | Description |
+|--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| keras | Keras is an open source neural network library written in Python. It is capable of running on top of either Tensorflow or Theano. |
+| [setup](http://nbviewer.ipython.org/github/leriomaggio/deep-learning-keras-tensorflow/blob/master/0.%20Preamble.ipynb) | Learn about the tutorial goals and how to set up your Keras environment. |
+| [intro-deep-learning-ann](http://nbviewer.ipython.org/github/leriomaggio/deep-learning-keras-tensorflow/blob/master/1.1%20Introduction%20-%20Deep%20Learning%20and%20ANN.ipynb) | Get an intro to deep learning with Keras and Artificial Neural Networks (ANN). |
+| [theano](http://nbviewer.ipython.org/github/leriomaggio/deep-learning-keras-tensorflow/blob/master/1.2%20Introduction%20-%20Theano.ipynb) | Learn about Theano by working with weights matrices and gradients. |
+| [keras-otto](http://nbviewer.ipython.org/github/leriomaggio/deep-learning-keras-tensorflow/blob/master/1.3%20Introduction%20-%20Keras.ipynb) | Learn about Keras by looking at the Kaggle Otto challenge. |
+| [ann-mnist](http://nbviewer.ipython.org/github/leriomaggio/deep-learning-keras-tensorflow/blob/master/1.4%20(Extra)%20A%20Simple%20Implementation%20of%20ANN%20for%20MNIST.ipynb) | Review a simple implementation of ANN for MNIST using Keras. |
+| [conv-nets](http://nbviewer.ipython.org/github/leriomaggio/deep-learning-keras-tensorflow/blob/master/2.1%20Supervised%20Learning%20-%20ConvNets.ipynb) | Learn about Convolutional Neural Networks (CNNs) with Keras. |
+| [conv-net-1](http://nbviewer.ipython.org/github/leriomaggio/deep-learning-keras-tensorflow/blob/master/2.2.1%20Supervised%20Learning%20-%20ConvNet%20HandsOn%20Part%20I.ipynb) | Recognize handwritten digits from MNIST using Keras - Part 1. |
+| [conv-net-2](http://nbviewer.ipython.org/github/leriomaggio/deep-learning-keras-tensorflow/blob/master/2.2.2%20Supervised%20Learning%20-%20ConvNet%20HandsOn%20Part%20II.ipynb) | Recognize handwritten digits from MNIST using Keras - Part 2. |
+| [keras-models](http://nbviewer.ipython.org/github/leriomaggio/deep-learning-keras-tensorflow/blob/master/2.3%20Supervised%20Learning%20-%20Famous%20Models%20with%20Keras.ipynb) | Use pre-trained models such as VGG16, VGG19, ResNet50, and Inception v3 with Keras. |
+| [auto-encoders](http://nbviewer.ipython.org/github/leriomaggio/deep-learning-keras-tensorflow/blob/master/3.1%20Unsupervised%20Learning%20-%20AutoEncoders%20and%20Embeddings.ipynb) | Learn about Autoencoders with Keras. |
+| [rnn-lstm](http://nbviewer.ipython.org/github/leriomaggio/deep-learning-keras-tensorflow/blob/master/3.2%20RNN%20and%20LSTM.ipynb) | Learn about Recurrent Neural Networks (RNNs) with Keras. |
+| [lstm-sentence-gen](http://nbviewer.ipython.org/github/leriomaggio/deep-learning-keras-tensorflow/blob/master/3.3%20(Extra)%20LSTM%20for%20Sentence%20Generation.ipynb) |  Learn about RNNs using Long Short Term Memory (LSTM) networks with Keras. |
+
 ### deep-learning-misc
 
 | Notebook | Description |
@@ -331,6 +354,7 @@ Notebooks tested with Python 2.7.x.
 * [TensorFlow Tutorials](https://github.com/alrojo/tensorflow-tutorial) by Alexander R Johansen
 * [TensorFlow Book](https://github.com/BinRoot/TensorFlow-Book) by Nishant Shukla
 * [Summer School 2015](https://github.com/mila-udem/summerschool2015) by mila-udem
+* [Keras tutorials](https://github.com/leriomaggio/deep-learning-keras-tensorflow) by Valerio Maggio
 * [Kaggle](https://www.kaggle.com/)
 * [Yhat Blog](http://blog.yhat.com/)
 
