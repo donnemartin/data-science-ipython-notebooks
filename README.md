@@ -301,12 +301,6 @@ Anaconda is a free distribution of the Python programming language for large-sca
 
 Follow instructions to install [Anaconda](https://docs.continuum.io/anaconda/install) or the more lightweight [miniconda](http://conda.pydata.org/miniconda.html).
 
-### pip-requirements
-
-If you prefer to use a more lightweight installation procedure than Anaconda, first clone the repo then run the following pip command on the provided requirements.txt file:
-
-    $ pip install -r requirements.txt
-
 ### dev-setup
 
 For detailed instructions, scripts, and tools to set up your development environment for data analysis, check out the [dev-setup](https://github.com/donnemartin/dev-setup) repo.
