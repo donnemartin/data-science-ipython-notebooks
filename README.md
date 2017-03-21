@@ -13,6 +13,10 @@
 ## Index
 
 * [deep-learning](#deep-learning)
+    * [tensorflow](#tensor-flow-tutorials)
+    * [theano](#theano-tutorials)
+    * [keras](#keras-tutorials)
+    * [caffe](#deep-learning-misc)
 * [scikit-learn](#scikit-learn)
 * [statistical-inference-scipy](#statistical-inference-scipy)
 * [pandas](#pandas)
