@@ -417,6 +417,8 @@ This repository contains a variety of content; some developed by Donne Martin, a
 
 The content developed by Donne Martin is distributed under the following license:
 
+*I am providing code and resources in this repository to you under an open source license.  Because this is my personal repository, the license you receive to my code and resources is from me and not my employer (Facebook).*
+
     Copyright 2015 Donne Martin
 
     Licensed under the Apache License, Version 2.0 (the "License");
