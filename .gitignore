@@ -58,3 +58,6 @@ target/
 
 # Repo scratch directory
 scratch/
+
+# Misc
+.DS_Store
