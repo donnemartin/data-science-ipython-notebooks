@@ -57,6 +57,7 @@ Additional TensorFlow tutorials:
 * [nlintz/TensorFlow-Tutorials](https://github.com/nlintz/TensorFlow-Tutorials)
 * [alrojo/tensorflow-tutorial](https://github.com/alrojo/tensorflow-tutorial)
 * [BinRoot/TensorFlow-Book](https://github.com/BinRoot/TensorFlow-Book)
+* [tuanavu/tensorflow-basic-tutorials](https://github.com/tuanavu/tensorflow-basic-tutorials)
 
 | Notebook | Description |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
