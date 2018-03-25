@@ -61,9 +61,6 @@ Additional TensorFlow tutorials:
 
 | Notebook | Description |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [TensorFlow Basics](http://nbviewer.jupyter.org/github/tuanavu/tensorflow-basic-tutorials/blob/master/notebooks/1_tensorflow_basic.ipynb) | Learn basic operations in TensorFlow, a library for various kinds of perceptual and language understanding tasks from Google. |
-| [Arrays](http://nbviewer.jupyter.org/github/tuanavu/tensorflow-basic-tutorials/blob/master/notebooks/2_Arrays_working_with_images.ipynb) | Using array to work with images. |
-| [Placeholders](http://nbviewer.jupyter.org/github/tuanavu/tensorflow-basic-tutorials/blob/master/notebooks/3_Placeholders.ipynb) | Understand the concept of Placeholders |
 | [tsf-basics](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/tensor-flow-examples/notebooks/1_intro/basic_operations.ipynb) | Learn basic operations in TensorFlow, a library for various kinds of perceptual and language understanding tasks from Google. |
 | [tsf-linear](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/tensor-flow-examples/notebooks/2_basic_classifiers/linear_regression.ipynb) | Implement linear regression in TensorFlow. |
 | [tsf-logistic](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/deep-learning/tensor-flow-examples/notebooks/2_basic_classifiers/logistic_regression.ipynb) | Implement logistic regression in TensorFlow. |
