@@ -275,7 +275,7 @@ IPython Notebook(s) used in [kaggle](https://www.kaggle.com/) competitions and b
 | Notebook | Description |
 |-------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
 | [titanic](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/kaggle/titanic.ipynb) | Predict survival on the Titanic.  Learn data cleaning, exploratory data analysis, and machine learning. |
-| [churn-analysis](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/analyses/churn.ipynb) | Predict customer churn.  Exercise logistic regression, gradient boosting classifers, support vector machines, random forests, and k-nearest-neighbors.  Includes discussions of confusion matrices, ROC plots, feature importances, prediction probabilities, and calibration/descrimination.|
+| [churn-analysis](http://nbviewer.ipython.org/github/donnemartin/data-science-ipython-notebooks/blob/master/analyses/churn.ipynb) | Predict customer churn.  Exercise logistic regression, gradient boosting classifiers, support vector machines, random forests, and k-nearest-neighbors.  Includes discussions of confusion matrices, ROC plots, feature importances, prediction probabilities, and calibration/discrimination.|
 
 <br/>
 <p align="center">
