@@ -1,5 +1,8 @@
 
-from StringIO import StringIO
+try:
+    from StringIO import StringIO
+except ImportError:
+    from io import StringIO
 import unittest2 as unittest
 from mr_s3_log_parser import MrS3LogParser
 
